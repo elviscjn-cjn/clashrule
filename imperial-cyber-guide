@@ -44,8 +44,7 @@ X = url-test,TEST3CDN-CJNTEST3 | 优选3 | 9,CLOUDFLARESUB.QQ2049323189.WORKERS.
 Ⓜ️ 微软服务 = select, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点, select=0
 🍎 苹果服务 = select, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点, select=0
 🎮 游戏平台 = select, 🌐 全球直连, 🚀 策略选择, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 新加坡节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, 🇬🇧 英国节点,🇰🇷 韩国节点, select=0
-🇭🇰 香港节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*(港|HK|(?i)Hong))^((?!(台湾|日本|新加坡|美国|韩国|狮城|南朝鲜|US|SG|JP|KR|TW|台灣|美國|韓國|獅城)).)*$
-🇨🇳 台湾节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*(台|TW|(?i)Taiwan))^((?!(港|日|韩|新|美)).)*$
+🇭🇰 香港节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*((?i)🇭🇰|香|港|香港|香江|香岛|湾仔|港仔|九龙|铜锣湾|旺角|HK|Hong|HongKong))^((?!((?i)Music|网易|解锁|Unblock|Update|刷新|群|邀|🎵|🎶|🎧)).)*$🇨🇳 台湾节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*(台|TW|(?i)Taiwan))^((?!(港|日|韩|新|美)).)*$
 🇺🇸 美国节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*(美国|美國|US|洛杉矶|西雅图|(?i)States|American))^((?!(香港|台湾|日本|新加坡|韩国|狮城|南朝鲜|SG|JP|KR|HK|TW|台灣|韓國|獅城)).)*$
 🇰🇷 韩国节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=(?=.*(KR|Korea|KOR|首尔|韩|韓|(?i)Korea))^((?!(香港|台湾|新加坡|美国|狮城|南朝鲜|US|SG|HK|TW|台灣|美國|獅城)).)*$
 🇷🇺 俄罗斯节点 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=🇷🇺|俄罗斯|RU|莫斯科|圣彼得堡|喀山|哈尔科夫|乌法|新西伯利亚|下诺夫哥罗德|沃罗涅什
@@ -55,9 +54,50 @@ X = url-test,TEST3CDN-CJNTEST3 | 优选3 | 9,CLOUDFLARESUB.QQ2049323189.WORKERS.
 🇮🇳 印度 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=🇮🇳|印度|IN|IND|孟买|新德里|高知|Republic of India|India
 🇩🇪 德国 = url-test,url=http://www.gstatic.com/generate_204,interval=600,tolerance=100,timeout=5,policy-regex-filter=🇩🇪|德国|DEU|DE|柏林|慕尼黑|汉堡|科隆|Germany
 🇨🇦 加拿大 = url-test,policy-select-name=加拿大-CMI专线1,interval=600,tolerance=100,url=http://www.gstatic.com/generate_204,timeout=5,policy-regex-filter=🇨🇦|加拿大|CA|渥太华
-🌐 全球直连 = select, DIRECT
+🌐 全球直连 = direct
 
 [Rule]
+# 国内常用 App 细分直连 (防止跳代理导致定位偏移或加载慢)
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Baidu/Baidu.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouBan/DouBan.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Zhihu/Zhihu.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list,🌐 全球直连
+DOMAIN,appstoreconnect.apple.com,🌐 全球直连
+DOMAIN,iosapps-ssl.itunes.apple.com,🌐 全球直连
+DOMAIN,itcmobile.itunes.apple.com,🌐 全球直连
+DOMAIN,mesu.apple.com,🌐 全球直连
+DOMAIN,gdmf.apple.com,🌐 全球直连
+DOMAIN,updates-http.cdn-apple.com,🌐 全球直连
+DOMAIN,xp.apple.com,🌐 全球直连
+# 京东
+DOMAIN-SUFFIX,jd.com,🌐 全球直连
+# 美团
+DOMAIN-KEYWORD,meituan,🌐 全球直连
+# 百度
+DOMAIN-KEYWORD,baidu,🌐 全球直连
+# China
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/China/China.list,🌐 全球直连
+# China_Domain
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/China/China_Domain.list,🌐 全球直连
+# ChinaIPs
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaIPs/ChinaIPs.list,🌐 全球直连
+# 局域网地址
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list,🌐 全球直连
+# China公司
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list,🌐 全球直连
+# China域名
+RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,🌐 全球直连
+# ChinaMedia
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMedia/ChinaMedia.list,🌐 全球直连
+DOMAIN-KEYWORD,openai,US专线
+DOMAIN-SUFFIX,poe.com,US专线
+DOMAIN-SUFFIX,openai.com,US专线
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Instagram/Instagram.list,➡️优先使用
+DOMAIN-KEYWORD,instagram,➡️优先使用
 DOMAIN-SUFFIX,api.x.com,X
 DOMAIN-SUFFIX,grok.x.com,X
 DOMAIN-SUFFIX,grok.x.com,X
@@ -65,8 +105,6 @@ DOMAIN-SUFFIX,chat-ws.x.com,X
 DOMAIN-SUFFIX,chat-ws.x.com,X
 DOMAIN-SUFFIX,probe.twitter.com,X
 DOMAIN-SUFFIX,api.twitter.com,X
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list,➡️优先使用
-DOMAIN-SUFFIX,www.youtube.com,➡️优先使用
 DOMAIN-KEYWORD,tiktok,CDN
 DOMAIN-KEYWORD,musical.ly,CDN
 DOMAIN-SUFFIX,tiktok.com,CDN
@@ -134,6 +172,7 @@ DOMAIN-SUFFIX,rr5---sn-oji3bc-5n.googlevideo.com,➡️优先使用
 DOMAIN-SUFFIX,rr3---sn-i3belney.googlevideo.com,➡️优先使用
 DOMAIN-SUFFIX,grok.com,US专线
 DOMAIN-SUFFIX,ios.chat.openai.com,US专线
+RULE-SET,https://yfamilys.com/rule/ChatGPT.list,US专线
 DOMAIN-SUFFIX,yfamilys.com,AI
 DOMAIN-SUFFIX,play.googleapis.com,US专线
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com,US专线
@@ -192,8 +231,6 @@ RULE-SET,https://yfamilys.com/rule/PayPal.list,🪙 PAYPAL
 RULE-SET,https://yfamilys.com/rule/Facebook.list,👤 FACEBOOK
 RULE-SET,https://yfamilys.com/rule/Reddit.list,➡️优先使用
 RULE-SET,https://yfamilys.com/rule/Discord.list,🐦 DISCORD
-RULE-SET,https://yfamilys.com/rule/YouTube.list,➡️优先使用
-RULE-SET,https://yfamilys.com/rule/YouTubeMusic.list,➡️优先使用
 RULE-SET,https://yfamilys.com/rule/Netflix.list,🎥 NETFLIX
 RULE-SET,https://yfamilys.com/rule/Disney.list,🎬 DISNEY+
 DOMAIN-SUFFIX,api.bilibili.com,📽 哔哩哔哩
@@ -206,7 +243,26 @@ RULE-SET,https://yfamilys.com/rule/Google.list,🚀 策略选择
 RULE-SET,https://yfamilys.com/rule/Proxy.list,🚀 策略选择
 DOMAIN-SET,https://yfamilys.com/rule/Proxy.list,➡️优先使用
 RULE-SET,https://yfamilys.com/rule/ASN-CN.list,🌐 全球直连
-FINAL,🚀 策略选择
+# YouTube
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list,➡️优先使用
+RULE-SET,https://yfamilys.com/rule/YouTube.list,➡️优先使用
+RULE-SET,https://yfamilys.com/rule/YouTubeMusic.list,➡️优先使用
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list,➡️优先使用
+DOMAIN-SUFFIX,www.youtube.com,➡️优先使用
+# 1. 基础修正与直连 (保证国内 App 和网站不绕路)
+RULE-SET,https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Ruleset/Unbreak.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Ruleset/LAN.list,🌐 全球直连
+RULE-SET,https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Ruleset/GEOIPCN.list,🌐 全球直连
+
+# 2. 广告拦截 (纯净上网)
+RULE-SET,https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Ruleset/AdBlock.list,REJECT
+
+# 3. 必须走特定节点的特殊服务 (比如 ChatGPT 容易封代理 IP，走你测速出的 AI 组)
+RULE-SET,https://yfamilys.com/rule/ChatGPT.list,US专线
+
+# 4. 终极奥义：剩下的全进你的“最优选”名单
+# 只要不在上面的直连名单里，统通扔给 ➡️优先使用
+FINAL,➡️优先使用
 
 [MITM]
 enable = true
