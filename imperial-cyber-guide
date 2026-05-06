@@ -12,7 +12,7 @@ dns-direct-system = false
 icmp-auto-reply = true
 always-reject-url-rewrite = false
 private-ip-answer = false
-update-url = https://cdn.jsdelivr.net/gh/elviscjn-cjn/imperial-cyber-guide@main/imperial-cyber-guide
+update-url = https://raw.githubusercontent.com/elviscjn-cjn/imperial-cyber-guide/refs/heads/main/imperial-cyber-guide
 
 [Proxy Group]
 VPS🛜 = url-test,TEST3CDN-CJNTEST3 | 优选3 | 9,TEST3CDN-CJNTEST3 | 优选4 | 3,TEST3CDN-CJNTEST3 | 优选 | 7,TEST3CDN-CJNTEST3 | ELVIS优选IP | 1,TEST3CDN-CJNTEST3 | ELVIS优选IP | 2,TEST3CDN-CJNTEST3 | 优选4 | 5,TEST3CDN-CJNTEST3 | ELVIS优选IP | 3,TEST3CDN-CJNTEST3 | 优选3 | 2,TEST3CDN-CJNTEST3 | ELVIS优选IP | 4,TEST3CDN-CJNTEST3 | 优选 | 4,TEST3CDN-CJNTEST3 | 优选4 | 7,TEST3CDN-CJNTEST3 | ELVIS优选IP | 5,TEST3CDN-CJNTEST3 | 优选3 | 4,TEST3CDN-CJNTEST3 | ELVIS优选IP | 6,TEST3CDN-CJNTEST3 | 优选4 | 9,TEST3CDN-CJNTEST3 | 优选 | 8,TEST3CDN-CJNTEST3 | ELVIS优选IP | 7,TEST3CDN-CJNTEST3 | 优选 | 1,TEST3CDN-CJNTEST3 | 优选3 | 6,TEST3CDN-CJNTEST3 | ELVIS优选IP | 8,TEST3CDN-CJNTEST3 | ELVIS优选IP | 9,TEST3CDN-CJNTEST3 | 优选4 | 2,TEST3CDN-CJNTEST3 | 优选 | 5,TEST3CDN-CJNTEST3 | 优选3 | 8,TEST3CDN-CJNTEST3 | 优选4 | 10,TEST3CDN-CJNTEST3 | 优选4 | 4,TEST3-CJNTEST3,TEST3CDN-CJNTEST3 | 优选 | 9,TEST3CDN-CJNTEST3 | 优选 | 10,TEST3CDN-CJNTEST3 | 优选 | 2,TEST3CDN-CJNTEST3 | 优选3 | 1,TEST3CDN-CJNTEST3 | 优选4 | 6,TEST3CDN-CJNTEST3 | 优选3 | 10,TEST3CDN-CJNTEST3 | 优选3 | 3,TEST3CDN-CJNTEST3 | 优选 | 6,TEST3CDN-CJNTEST3 | 优选4 | 8,TEST3CDN-CJNTEST3 | ELVIS优选IP | 10,TEST3CDN-CJNTEST3 | 优选3 | 5,TEST3CDN-CJNTEST3 | 优选 | 3,TEST3CDN-CJNTEST3 | 优选4 | 1,TEST3CDN-CJNTEST3 | 优选3 | 7,policy-select-name=TEST3CDN-CJNTEST3 | 优选 | 9,interval=600,tolerance=100,timeout=5,url=http://www.gstatic.com/generate_204
