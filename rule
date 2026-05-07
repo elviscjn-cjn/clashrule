@@ -208,6 +208,8 @@ DOMAIN-SUFFIX,yt3.googleusercontent.com,➡️优先使用
 DOMAIN-SUFFIX,rr3---sn-i3belney.googlevideo.com,➡️优先使用
 DOMAIN-SUFFIX,rr4---sn-un57snee.googlevideo.com,CDN
 DOMAIN-SUFFIX,rr5---sn-oji3bc-5n.googlevideo.com,➡️优先使用
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list,➡️优先使用
+
 # 国际流媒体
 RULE-SET,https://yfamilys.com/rule/Netflix.list,🎥 NETFLIX
 RULE-SET,https://yfamilys.com/rule/Disney.list,🎬 DISNEY+
