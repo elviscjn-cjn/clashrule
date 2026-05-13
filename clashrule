@@ -2635,15 +2635,15 @@ rules:
   - "DOMAIN-SUFFIX,www.google-analytics.com,REJECT"
 
     # ━━━━━━━━━━━━━━ AI 生产力核心 ━━━━━━━━━━━━━━
-  - "GEOSITE,openai,➡️优先使用"
-  - "DOMAIN-KEYWORD,openai,➡️优先使用"
-  - "DOMAIN-SUFFIX,openai.com,➡️优先使用"
-  - "DOMAIN-SUFFIX,grok.com,➡️优先使用"
-  - "DOMAIN-SUFFIX,grok.x.com,➡️优先使用"
-  - "DOMAIN-SUFFIX,poe.com,➡️优先使用"
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,➡️优先使用"
-  - "DOMAIN-SUFFIX,yfamilys.com,➡️优先使用"
-  - 'DOMAIN-SUFFIX,github.com,➡️优先使用'
+  - "GEOSITE,openai,VPS🛜"
+  - "DOMAIN-KEYWORD,openai,VPS🛜"
+  - "DOMAIN-SUFFIX,openai.com,VPS🛜"
+  - "DOMAIN-SUFFIX,grok.com,VPS🛜"
+  - "DOMAIN-SUFFIX,grok.x.com,VPS🛜"
+  - "DOMAIN-SUFFIX,poe.com,VPS🛜"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,VPS🛜"
+  - "DOMAIN-SUFFIX,yfamilys.com,VPS🛜"
+  - 'DOMAIN-SUFFIX,github.com,VPS🛜'
 
     # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
   - "DOMAIN,localhost,🌐 全球直连"
