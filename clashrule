@@ -1933,6 +1933,11 @@ proxies:
       headers:
         Host: j1.berrycdn-3.com
 proxy-groups:
+  - name: "🌐 全球直连"
+    type: select
+    proxies:
+      - "DIRECT"
+
   - name: "ALL"
     type: select
     proxies:
@@ -2072,6 +2077,116 @@ proxy-groups:
       - "US🐲™️【免费共享】 9"
       - "US🐲™️【免费共享】 10"
       - DIRECT
+    
+  - name: "➡️优先使用"
+    type: url-test
+    url: "http://www.gstatic.com/generate_204"
+    interval: 600
+    tolerance: 100
+    proxies:
+      - "VPS🛜"
+      - "TEST3-CJNTEST3"
+      - "TEST3CDN-CJNTEST3 | 优选 | 1"
+      - "TEST3CDN-CJNTEST3 | 优选 | 2"
+      - "TEST3CDN-CJNTEST3 | 优选 | 3"
+      - "TEST3CDN-CJNTEST3 | 优选 | 4"
+      - "TEST3CDN-CJNTEST3 | 优选 | 5"
+      - "TEST3CDN-CJNTEST3 | 优选 | 6"
+      - "TEST3CDN-CJNTEST3 | 优选 | 7"
+      - "TEST3CDN-CJNTEST3 | 优选 | 8"
+      - "TEST3CDN-CJNTEST3 | 优选 | 9"
+      - "TEST3CDN-CJNTEST3 | 优选 | 10"
+      - "TEST3CDN-CJNTEST3 | 优选 | 11"
+      - "TEST3CDN-CJNTEST3 | 优选 | 12"
+      - "TEST3CDN-CJNTEST3 | 优选 | 13"
+      - "TEST3CDN-CJNTEST3 | 优选 | 14"
+      - "TEST3CDN-CJNTEST3 | 优选 | 15"
+      - "TEST3CDN-CJNTEST3 | 优选 | 16"
+      - "TEST3CDN-CJNTEST3 | 优选 | 17"
+      - "TEST3CDN-CJNTEST3 | 优选 | 18"
+      - "TEST3CDN-CJNTEST3 | 优选 | 19"
+      - "TEST3CDN-CJNTEST3 | 优选 | 20"
+      - "美国A-线路1 | TCP"
+      - "美国A-线路2 | TCP"
+      - "美国B-线路1 | TCP"
+      - "美国B-线路2 | TCP"
+      - "美国C-线路1 | TCP"
+      - "美国C-线路2 | TCP"
+      - "美国D-线路4 | HY2"
+      - "德国-线路1 | TCP"
+      - "德国-线路2 | TCP"
+      - "德国-线路4 | HY2"
+      - "加拿大-线路1 | TCP"
+      - "加拿大-线路4 | HY2"
+      - "台湾-线路1 | TCP"
+      - "英国-线路1 | TCP"
+      - "新加坡A-线路1 | TCP"
+      - "新加坡A-线路2 | TCP"
+      - "新加坡B-线路1 | TCP"
+      - "新加坡B-线路2 | TCP"
+      - "新加坡C-线路1 | TCP"
+      - "新加坡C-线路2 | TCP"
+      - "香港A-线路1 | TCP"
+      - "香港A-线路2 | TCP"
+      - "香港B-线路1 | TCP"
+      - "香港B-线路2 | TCP"
+      - "日本A-线路1 | TCP"
+      - "日本A-线路2 | TCP"
+      - "日本B-线路1 | TCP"
+      - "日本B-线路2 | TCP"
+      - "日本C-线路1 | TCP"
+      - "日本C-线路2 | TCP"
+      - "摩尔多瓦-线路1 | TCP"
+      - "越南-线路1 | TCP"
+      - HK🐲™️【免费共享】
+      - "HK🐲™️【免费共享】 2"
+      - "SG🐲™️【免费共享】"
+      - "SG🐲™️【免费共享】 2"
+      - "SG🐲™️【免费共享】 3"
+      - "SG🐲™️【免费共享】 4"
+      - "SG🐲™️【免费共享】 5"
+      - "SG🐲™️【免费共享】 6"
+      - "SG🐲™️【免费共享】 7"
+      - "SG🐲™️【免费共享】 8"
+      - "JP🐲™️【免费共享】"
+      - "JP🐲™️【免费共享】 2"
+      - "JP🐲™️【免费共享】 3"
+      - "JP🐲™️【免费共享】 4"
+      - "JP🐲™️【免费共享】 5"
+      - "JP🐲™️【免费共享】 6"
+      - "JP🐲™️【免费共享】 7"
+      - "JP🐲™️【免费共享】 8"
+      - "TW🐲™️【免费共享】"
+      - "TW🐲™️【免费共享】 2"
+      - "TW🐲™️【免费共享】 3"
+      - "TW🐲™️【免费共享】 4"
+      - "TW🐲™️【免费共享】 5"
+      - "TW🐲™️【免费共享】 6"
+      - "TW🐲™️【免费共享】 7"
+      - "TW🐲™️【免费共享】 8"
+      - "TW🐲™️【免费共享】 9"
+      - "TW🐲™️【免费共享】 10"
+      - "KR🐲™️【免费共享】"
+      - "KR🐲™️【免费共享】 2"
+      - "KR🐲™️【免费共享】 3"
+      - "KR🐲™️【免费共享】 4"
+      - "KR🐲™️【免费共享】 5"
+      - "KR🐲™️【免费共享】 6"
+      - "KR🐲™️【免费共享】 7"
+      - "KR🐲™️【免费共享】 8"
+      - "KR🐲™️【免费共享】 9"
+      - "KR🐲™️【免费共享】 10"
+      - "US🐲™️【免费共享】"
+      - "US🐲™️【免费共享】 2"
+      - "US🐲™️【免费共享】 3"
+      - "US🐲™️【免费共享】 4"
+      - "US🐲™️【免费共享】 5"
+      - "US🐲™️【免费共享】 6"
+      - "US🐲™️【免费共享】 7"
+      - "US🐲™️【免费共享】 8"
+      - "US🐲™️【免费共享】 9"
+      - "US🐲™️【免费共享】 10"
+
 
   - name: "出站🚉"
     type: url-test
@@ -2247,8 +2362,6 @@ proxy-groups:
       - "🇸🇬 新加坡节点"
       - "🇺🇸 美国节点"
       - "🇰🇷 韩国节点"
-      - "🇷🇺 俄罗斯节点"
-      - "🇮🇳 印度"
       - "🇩🇪 德国"
       - "🇨🇦 加拿大"
       - "🌐 全球直连"
@@ -2542,43 +2655,6 @@ proxy-groups:
       - "加拿大-线路1 | TCP"
       - "加拿大-CMI专线1"
       - "加拿大-线路4 | HY2"
-
-  - name: "🇷🇺 俄罗斯节点"
-    type: select
-    proxies:
-      - "🌐 全球直连"
-
-  - name: "🇮🇳 印度"
-    type: select
-    proxies:
-      - "🌐 全球直连"
-
-  - name: "🌐 全球直连"
-    type: select
-    proxies:
-      - "DIRECT"
-
-  - name: "➡️优先使用"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "VPS🛜"
-      - "🇺🇸 美国节点"
-      - "🇭🇰 香港节点"
-      - "🇯🇵 日本节点"
-      - "🇸🇬 新加坡节点"
-      - "🇨🇳 台湾节点"
-      - "🇰🇷 韩国节点"
-      - "🇩🇪 德国"
-      - "🇨🇦 加拿大"
-      - "🇬🇧 英国节点"
-      - "摩尔多瓦-线路1 | TCP"
-      - "摩尔多瓦-CMI专线1"
-      - "越南-线路1 | TCP"
-      - "越南-CMI专线1"
-      - "特殊地区专用线路"
 
   - name: "♻️ ALL"
     type: url-test
