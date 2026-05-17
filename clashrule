@@ -2707,6 +2707,10 @@ rules:
   - "DOMAIN-SUFFIX,lh3.googleusercontent.com,US专线"
   - "DOMAIN-KEYWORD,gemini,US专线"
 
+    # claudeAI / Anthropic
+  - "DOMAIN-SUFFIX,anthropic.com,US专线"
+  - 'DOMAIN-KEYWORD,claude,US专线'
+
 
   # GitHub Copilot / AI 相关
   - 'DOMAIN-SUFFIX,github.com,US专线'
