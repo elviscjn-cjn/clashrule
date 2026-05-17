@@ -1933,34 +1933,6 @@ proxies:
       headers:
         Host: j1.berrycdn-3.com
 proxy-groups:
-  - name: "自动选择"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "TEST3-CJNTEST3"
-      - "TEST3CDN-CJNTEST3 | 优选 | 1"
-      - "TEST3CDN-CJNTEST3 | 优选 | 2"
-      - "TEST3CDN-CJNTEST3 | 优选 | 3"
-      - "TEST3CDN-CJNTEST3 | 优选 | 4"
-      - "TEST3CDN-CJNTEST3 | 优选 | 5"
-      - "TEST3CDN-CJNTEST3 | 优选 | 6"
-      - "TEST3CDN-CJNTEST3 | 优选 | 7"
-      - "TEST3CDN-CJNTEST3 | 优选 | 8"
-      - "TEST3CDN-CJNTEST3 | 优选 | 9"
-      - "TEST3CDN-CJNTEST3 | 优选 | 10"
-      - "TEST3CDN-CJNTEST3 | 优选 | 11"
-      - "TEST3CDN-CJNTEST3 | 优选 | 12"
-      - "TEST3CDN-CJNTEST3 | 优选 | 13"
-      - "TEST3CDN-CJNTEST3 | 优选 | 14"
-      - "TEST3CDN-CJNTEST3 | 优选 | 15"
-      - "TEST3CDN-CJNTEST3 | 优选 | 16"
-      - "TEST3CDN-CJNTEST3 | 优选 | 17"
-      - "TEST3CDN-CJNTEST3 | 优选 | 18"
-      - "TEST3CDN-CJNTEST3 | 优选 | 19"
-      - "TEST3CDN-CJNTEST3 | 优选 | 20"
-
   - name: "ALL"
     type: select
     proxies:
@@ -2100,6 +2072,15 @@ proxy-groups:
       - "US🐲™️【免费共享】 9"
       - "US🐲™️【免费共享】 10"
       - DIRECT
+
+  - name: "出站🚉"
+    type: url-test
+    url: "http://www.gstatic.com/generate_204"
+    interval: 600
+    tolerance: 100
+    proxies:
+    - "TEST3-CJNTEST3"
+
 
   - name: "VPS🛜"
     type: url-test
@@ -2341,13 +2322,13 @@ proxy-groups:
       - "TEST3CDN-CJNTEST3 | 优选 | 20"
       - "🇺🇸 美国节点"
 
-  - name: "🪙 Paypal"
+  - name: "🪙 Paypal[直连]"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "🚀 策略选择"
+      - "🌐 全球直连"
 
   - name: "📖 Reddit"
     type: url-test
@@ -2627,7 +2608,7 @@ rules:
   - "DOMAIN-SUFFIX,appapi.bitget.com,🇰🇷 韩国节点"
   - "DOMAIN-SUFFIX,stream.bitget.com,🇰🇷 韩国节点"
   - "DOMAIN-SUFFIX,testimg.bitgetapp.com,🇰🇷 韩国节点"
-  - "DOMAIN-SUFFIX,tradingview.com,➡️优先使用"
+  - "DOMAIN-SUFFIX,tradingview.com,US专线"
 
     # ━━━━━━━━━━━━━━ 广告拦截 ━━━━━━━━━━━━━━
   - "GEOSITE,category-ads-all,REJECT"
@@ -2635,15 +2616,25 @@ rules:
   - "DOMAIN-SUFFIX,www.google-analytics.com,REJECT"
 
     # ━━━━━━━━━━━━━━ AI 生产力核心 ━━━━━━━━━━━━━━
-  - "GEOSITE,openai,VPS🛜"
-  - "DOMAIN-KEYWORD,openai,VPS🛜"
-  - "DOMAIN-SUFFIX,openai.com,VPS🛜"
-  - "DOMAIN-SUFFIX,grok.com,VPS🛜"
-  - "DOMAIN-SUFFIX,grok.x.com,VPS🛜"
-  - "DOMAIN-SUFFIX,poe.com,VPS🛜"
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,VPS🛜"
-  - "DOMAIN-SUFFIX,yfamilys.com,VPS🛜"
-  - 'DOMAIN-SUFFIX,github.com,VPS🛜'
+
+    # OpenAI / ChatGPT
+  - "GEOSITE,openai,US专线"
+  - "DOMAIN-KEYWORD,openai,US专线"
+  - "DOMAIN-SUFFIX,openai.com,US专线"
+
+  # Grok / X AI
+  - "DOMAIN-SUFFIX,grok.com,US专线"
+  - "DOMAIN-SUFFIX,grok.x.com,US专线"
+  - "DOMAIN-SUFFIX,poe.com,US专线"
+
+  # Gemini / Google AI
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,US专线"
+  - "DOMAIN-KEYWORD,gemini,US专线"
+
+
+  # GitHub Copilot / AI 相关
+  - 'DOMAIN-SUFFIX,github.com,US专线'
+
 
     # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
   - "DOMAIN,localhost,🌐 全球直连"
@@ -2677,7 +2668,8 @@ rules:
   - "DOMAIN-SUFFIX,ccb.com,🌐 全球直连"
   - "DOMAIN-SUFFIX,welab.bank,🌐 全球直连"
   - "DOMAIN-SUFFIX,za.group,🌐 全球直连"
-  - "GEOSITE,paypal,🪙 Paypal"
+  - "GEOSITE,paypal,🪙 Paypal[直连]"
+  - "DOMAIN-KEYWORD,wise.com,🌐 全球直连"
 
     # ━━━━━━━━━━━━━━ 社交媒体分流 ━━━━━━━━━━━━━━
   - "GEOSITE,twitter,X"
@@ -2696,6 +2688,7 @@ rules:
   - "DOMAIN-SUFFIX,tiktokv.com,CDN"
 
     # ━━━━━━━━━━━━━━ 流媒体娱乐 ━━━━━━━━━━━━━━
+  - 'DOMAIN-KEYWORD,googlevideo.com,VPS🛜'
   - GEOSITE,youtube,➡️优先使用
   - DOMAIN-SUFFIX,yt3.googleusercontent.com,➡️优先使用
   - DOMAIN-SUFFIX,rr3---sn-i3belney.googlevideo.com,➡️优先使用
@@ -2750,7 +2743,7 @@ rules:
   - GEOSITE,microsoft,Ⓜ️ 微软服务[直连]
   - DOMAIN-SUFFIX,elviscjngood.ccwu.cc,➡️优先使用
 
-    # ━━━━━━━━━━━━━━ 未分类 ━━━━━━━━━━━━━━
+    # ━━━━━━━━━━━━━━ 本地服务━━━━━━━━━━━━━━
   - 'PROCESS-PATH,D:\101\League.Akari-1.4.0-win,DIRECT'
   - 'DOMAIN,https://136.0.197.4:14163/IE2P4yduao0xKJ7TDx/,VPS🛜'
   - 'DOMAIN,https://cloudflaresub.qq2049323189.workers.dev/,VPS🛜'
@@ -2762,6 +2755,7 @@ rules:
   - 'PROCESS-PATH,D:\douyin,🌐 全球直连'
   - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
   - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
+  - 'DOMAIN,https://berrypass.net/#/dashboard,VPS🛜'
 
 
     # ━━━━━━━━━━━━━━ 兜底分流 ━━━━━━━━━━━━━━
