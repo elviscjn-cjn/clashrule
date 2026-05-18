@@ -2195,6 +2195,79 @@ proxy-groups:
     tolerance: 100
     proxies:
     - "TEST3-CJNTEST3"
+    
+  - name: "蓝莓桥🫐"
+    type: select
+    url: "http://www.gstatic.com/generate_204"
+    interval: 600
+    tolerance: 50
+    proxies:
+      - "剩余流量：2.02 GB"
+      - "距离下次重置剩余：10 天"
+      - "套餐到期：2026-05-21"
+      - "官网 berrypass.net"
+      - "每日使用前请刷新订阅"
+      - "特殊地区专用线路"
+      - "美国A-线路1 | TCP"
+      - "美国A-线路2 | TCP"
+      - "美国A-CMI专线1"
+      - "美国A-CMI专线2"
+      - "美国B-线路1 | TCP"
+      - "美国B-线路2 | TCP"
+      - "美国B-CMI专线1"
+      - "美国B-CMI专线2"
+      - "美国C-线路1 | TCP"
+      - "美国C-线路2 | TCP"
+      - "美国C-CMI专线1"
+      - "美国C-CMI专线2"
+      - "美国D-线路4 | HY2"
+      - "德国-线路1 | TCP"
+      - "德国-线路2 | TCP"
+      - "德国-CMI专线1"
+      - "德国-线路4 | HY2"
+      - "德国-CMI专线2"
+      - "加拿大-线路1 | TCP"
+      - "加拿大-CMI专线1"
+      - "加拿大-线路4 | HY2"
+      - "台湾-线路1 | TCP"
+      - "台湾-CMI专线1"
+      - "英国-线路1 | TCP"
+      - "英国-CMI专线1"
+      - "新加坡A-线路1 | TCP"
+      - "新加坡A-线路2 | TCP"
+      - "新加坡A-CMI专线1"
+      - "新加坡A-CMI专线2"
+      - "新加坡B-线路1 | TCP"
+      - "新加坡B-线路2 | TCP"
+      - "新加坡B-CMI专线1"
+      - "新加坡B-CMI专线2"
+      - "新加坡C-线路1 | TCP"
+      - "新加坡C-线路2 | TCP"
+      - "新加坡C-CMI专线1"
+      - "新加坡C-CMI专线2"
+      - "香港A-线路1 | TCP"
+      - "香港A-线路2 | TCP"
+      - "香港A-CMI专线1"
+      - "香港B-线路1 | TCP"
+      - "香港B-线路2 | TCP"
+      - "香港B-CMI专线1"
+      - "香港C-CMI专线2"
+      - "日本A-线路1 | TCP"
+      - "日本A-线路2 | TCP"
+      - "日本A-CMI专线1"
+      - "日本A-CMI专线2"
+      - "日本B-线路1 | TCP"
+      - "日本B-线路2 | TCP"
+      - "日本B-CMI专线1"
+      - "日本B-CMI专线2"
+      - "日本C-线路1 | TCP"
+      - "日本C-线路2 | TCP"
+      - "日本C-CMI专线1"
+      - "日本C-CMI专线2"
+      - "摩尔多瓦-线路1 | TCP"
+      - "摩尔多瓦-CMI专线1"
+      - "越南-线路1 | TCP"
+      - "越南-CMI专线1"
 
 
   - name: "VPS🛜"
@@ -2225,7 +2298,7 @@ proxy-groups:
       - "TEST3CDN-CJNTEST3 | 优选 | 19"
       - "TEST3CDN-CJNTEST3 | 优选 | 20"
 
-  - name: "CDN"
+  - name: "CDN☁️"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -2295,7 +2368,7 @@ proxy-groups:
       - "加拿大-CMI专线1"
       - "TEST3-CJNTEST3"
 
-  - name: "US专线"
+  - name: "US专线🗽"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -2308,14 +2381,6 @@ proxy-groups:
       - "美国C-CMI专线1"
       - "美国C-CMI专线2"
 
-  - name: "AI"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 50
-    proxies:
-      - "🇺🇸 美国节点"
-      - "🇰🇷 韩国节点"
 
   - name: "H"
     type: url-test
@@ -2694,26 +2759,26 @@ rules:
     # ━━━━━━━━━━━━━━ AI 生产力核心 ━━━━━━━━━━━━━━
 
     # OpenAI / ChatGPT
-  - "GEOSITE,openai,US专线"
-  - "DOMAIN-KEYWORD,openai,US专线"
-  - "DOMAIN-SUFFIX,openai.com,US专线"
+  - "GEOSITE,openai,US专线🗽"
+  - "DOMAIN-KEYWORD,openai,US专线🗽"
+  - "DOMAIN-SUFFIX,openai.com,US专线🗽"
 
   # Grok / X AI
-  - "DOMAIN-SUFFIX,grok.com,US专线"
-  - "DOMAIN-SUFFIX,grok.x.com,US专线"
-  - "DOMAIN-SUFFIX,poe.com,US专线"
+  - "DOMAIN-SUFFIX,grok.com,US专线🗽"
+  - "DOMAIN-SUFFIX,grok.x.com,US专线🗽"
+  - "DOMAIN-SUFFIX,poe.com,US专线🗽"
 
   # Gemini / Google AI
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,US专线"
-  - "DOMAIN-KEYWORD,gemini,US专线"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,US专线🗽"
+  - "DOMAIN-KEYWORD,gemini,US专线🗽"
 
     # claudeAI / Anthropic
-  - "DOMAIN-SUFFIX,anthropic.com,US专线"
-  - 'DOMAIN-KEYWORD,claude,US专线'
+  - "DOMAIN-SUFFIX,anthropic.com,US专线🗽"
+  - 'DOMAIN-KEYWORD,claude,US专线🗽'
 
 
   # GitHub Copilot / AI 相关
-  - 'DOMAIN-SUFFIX,github.com,US专线'
+  - 'DOMAIN-SUFFIX,github.com,US专线🗽'
 
 
     # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
