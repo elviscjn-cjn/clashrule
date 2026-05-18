@@ -2077,7 +2077,7 @@ proxy-groups:
       - "US🐲™️【免费共享】 9"
       - "US🐲™️【免费共享】 10"
       - DIRECT
-    
+
   - name: "➡️优先使用"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -2187,15 +2187,14 @@ proxy-groups:
       - "US🐲™️【免费共享】 9"
       - "US🐲™️【免费共享】 10"
 
-
   - name: "出站🚉"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-    - "TEST3-CJNTEST3"
-    
+      - "TEST3-CJNTEST3"
+
   - name: "蓝莓桥🫐"
     type: select
     url: "http://www.gstatic.com/generate_204"
@@ -2269,7 +2268,6 @@ proxy-groups:
       - "越南-线路1 | TCP"
       - "越南-CMI专线1"
 
-
   - name: "VPS🛜"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -2298,7 +2296,7 @@ proxy-groups:
       - "TEST3CDN-CJNTEST3 | 优选 | 19"
       - "TEST3CDN-CJNTEST3 | 优选 | 20"
 
-  - name: "CDN☁️"
+  - name: "CDN"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -2353,7 +2351,7 @@ proxy-groups:
       - "US🐲™️【免费共享】 9"
       - "US🐲™️【免费共享】 10"
 
-  - name: "COC"
+  - name: "🗽US专线"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -2366,21 +2364,15 @@ proxy-groups:
       - "美国C-CMI专线1"
       - "美国C-CMI专线2"
       - "加拿大-CMI专线1"
-      - "TEST3-CJNTEST3"
 
-  - name: "US专线🗽"
+  - name: "COC"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "美国A-CMI专线1"
-      - "美国A-CMI专线2"
-      - "美国B-CMI专线1"
-      - "美国B-CMI专线2"
-      - "美国C-CMI专线1"
-      - "美国C-CMI专线2"
-
+      - "🗽US专线"
+      - "TEST3-CJNTEST3"
 
   - name: "H"
     type: url-test
@@ -2411,24 +2403,6 @@ proxy-groups:
   - name: "抖音"
     type: select
     proxies:
-      - "🌐 全球直连"
-
-  - name: "🚀 策略选择"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 50
-    proxies:
-      - "♻️ ALL"
-      - "🇨🇳 台湾节点"
-      - "🇬🇧 英国节点"
-      - "🇯🇵 日本节点"
-      - "🇭🇰 香港节点"
-      - "🇸🇬 新加坡节点"
-      - "🇺🇸 美国节点"
-      - "🇰🇷 韩国节点"
-      - "🇩🇪 德国"
-      - "🇨🇦 加拿大"
       - "🌐 全球直连"
 
   - name: "📲 Telegram"
@@ -2531,13 +2505,7 @@ proxy-groups:
       - "🇭🇰 香港节点"
       - "🇨🇳 台湾节点"
 
-  - name: "🍿 国外媒体"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "🚀 策略选择"
+
 
   - name: "🍔 国内媒体[直连]"
     type: select
@@ -2749,7 +2717,7 @@ rules:
   - "DOMAIN-SUFFIX,appapi.bitget.com,🇰🇷 韩国节点"
   - "DOMAIN-SUFFIX,stream.bitget.com,🇰🇷 韩国节点"
   - "DOMAIN-SUFFIX,testimg.bitgetapp.com,🇰🇷 韩国节点"
-  - "DOMAIN-SUFFIX,tradingview.com,US专线"
+  - "DOMAIN-SUFFIX,tradingview.com,🗽US专线"
 
     # ━━━━━━━━━━━━━━ 广告拦截 ━━━━━━━━━━━━━━
   - "GEOSITE,category-ads-all,REJECT"
@@ -2759,27 +2727,26 @@ rules:
     # ━━━━━━━━━━━━━━ AI 生产力核心 ━━━━━━━━━━━━━━
 
     # OpenAI / ChatGPT
-  - "GEOSITE,openai,US专线🗽"
-  - "DOMAIN-KEYWORD,openai,US专线🗽"
-  - "DOMAIN-SUFFIX,openai.com,US专线🗽"
+  - "GEOSITE,openai,🗽US专线"
+  - "DOMAIN-KEYWORD,openai,🗽US专线"
+  - "DOMAIN-SUFFIX,openai.com,🗽US专线"
 
   # Grok / X AI
-  - "DOMAIN-SUFFIX,grok.com,US专线🗽"
-  - "DOMAIN-SUFFIX,grok.x.com,US专线🗽"
-  - "DOMAIN-SUFFIX,poe.com,US专线🗽"
+  - "DOMAIN-SUFFIX,grok.com,🗽US专线"
+  - "DOMAIN-SUFFIX,grok.x.com,🗽US专线"
+  - "DOMAIN-SUFFIX,poe.com,🗽US专线"
 
   # Gemini / Google AI
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,US专线🗽"
-  - "DOMAIN-KEYWORD,gemini,US专线🗽"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,🗽US专线"
+  - "DOMAIN-KEYWORD,gemini,🗽US专线"
+  - 'DOMAIN-KEYWORD,gemini,🗽US专线'
 
     # claudeAI / Anthropic
-  - "DOMAIN-SUFFIX,anthropic.com,US专线🗽"
-  - 'DOMAIN-KEYWORD,claude,US专线🗽'
-
+  - "DOMAIN-SUFFIX,anthropic.com,🗽US专线"
+  - "DOMAIN-KEYWORD,claude,🗽US专线"
 
   # GitHub Copilot / AI 相关
-  - 'DOMAIN-SUFFIX,github.com,US专线🗽'
-
+  - "DOMAIN-SUFFIX,github.com,🗽US专线"
 
     # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
   - "DOMAIN,localhost,🌐 全球直连"
@@ -2833,7 +2800,7 @@ rules:
   - "DOMAIN-SUFFIX,tiktokv.com,CDN"
 
     # ━━━━━━━━━━━━━━ 流媒体娱乐 ━━━━━━━━━━━━━━
-  - 'DOMAIN-KEYWORD,googlevideo.com,VPS🛜'
+  - "DOMAIN-KEYWORD,googlevideo.com,VPS🛜"
   - GEOSITE,youtube,➡️优先使用
   - DOMAIN-SUFFIX,yt3.googleusercontent.com,➡️优先使用
   - DOMAIN-SUFFIX,rr3---sn-i3belney.googlevideo.com,➡️优先使用
@@ -2890,18 +2857,17 @@ rules:
 
     # ━━━━━━━━━━━━━━ 本地服务━━━━━━━━━━━━━━
   - 'PROCESS-PATH,D:\101\League.Akari-1.4.0-win,DIRECT'
-  - 'DOMAIN,https://136.0.197.4:14163/IE2P4yduao0xKJ7TDx/,VPS🛜'
-  - 'DOMAIN,https://cloudflaresub.qq2049323189.workers.dev/,VPS🛜'
-  - 'DOMAIN-KEYWORD,iCloud,DIRECT'
-  - 'DOMAIN-KEYWORD,steam,VPS🛜'
-  - 'DOMAIN-SUFFIX,store.steampowered.com,VPS🛜'
+  - "DOMAIN,https://136.0.197.4:14163/IE2P4yduao0xKJ7TDx/,VPS🛜"
+  - "DOMAIN,https://cloudflaresub.qq2049323189.workers.dev/,VPS🛜"
+  - "DOMAIN-KEYWORD,iCloud,DIRECT"
+  - "DOMAIN-KEYWORD,steam,VPS🛜"
+  - "DOMAIN-SUFFIX,store.steampowered.com,VPS🛜"
   - 'PROCESS-PATH,E:\WeGameApps,DIRECT'
   - 'PROCESS-PATH,E:\WeGame,🌐 全球直连'
   - 'PROCESS-PATH,D:\douyin,🌐 全球直连'
   - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
   - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
-  - 'DOMAIN,https://berrypass.net/#/dashboard,VPS🛜'
-
+  - "DOMAIN,https://berrypass.net/#/dashboard,VPS🛜"
 
     # ━━━━━━━━━━━━━━ 兜底分流 ━━━━━━━━━━━━━━
   - "GEOSITE,cn,🌐 全球直连"
