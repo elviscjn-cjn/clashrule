@@ -2452,26 +2452,6 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "TEST3-CJNTEST3"
-      - "TEST3CDN-CJNTEST3 | 优选 | 1"
-      - "TEST3CDN-CJNTEST3 | 优选 | 2"
-      - "TEST3CDN-CJNTEST3 | 优选 | 3"
-      - "TEST3CDN-CJNTEST3 | 优选 | 4"
-      - "TEST3CDN-CJNTEST3 | 优选 | 5"
-      - "TEST3CDN-CJNTEST3 | 优选 | 6"
-      - "TEST3CDN-CJNTEST3 | 优选 | 7"
-      - "TEST3CDN-CJNTEST3 | 优选 | 8"
-      - "TEST3CDN-CJNTEST3 | 优选 | 9"
-      - "TEST3CDN-CJNTEST3 | 优选 | 10"
-      - "TEST3CDN-CJNTEST3 | 优选 | 11"
-      - "TEST3CDN-CJNTEST3 | 优选 | 12"
-      - "TEST3CDN-CJNTEST3 | 优选 | 13"
-      - "TEST3CDN-CJNTEST3 | 优选 | 14"
-      - "TEST3CDN-CJNTEST3 | 优选 | 15"
-      - "TEST3CDN-CJNTEST3 | 优选 | 16"
-      - "TEST3CDN-CJNTEST3 | 优选 | 17"
-      - "TEST3CDN-CJNTEST3 | 优选 | 18"
-      - "TEST3CDN-CJNTEST3 | 优选 | 19"
-      - "TEST3CDN-CJNTEST3 | 优选 | 20"
       - "🇺🇸 美国节点"
 
   - name: "🪙 Paypal[直连]"
@@ -2504,8 +2484,6 @@ proxy-groups:
       - "🌐 全球直连"
       - "🇭🇰 香港节点"
       - "🇨🇳 台湾节点"
-
-
 
   - name: "🍔 国内媒体[直连]"
     type: select
@@ -2739,6 +2717,7 @@ rules:
   # Gemini / Google AI
   - "DOMAIN-SUFFIX,lh3.googleusercontent.com,🗽US专线"
   - "DOMAIN-KEYWORD,gemini,🗽US专线"
+  - "DOMAIN-KEYWORD,gemini,🗽US专线"
 
     # claudeAI / Anthropic
   - "DOMAIN-SUFFIX,anthropic.com,🗽US专线"
@@ -2859,6 +2838,8 @@ rules:
   - "DOMAIN,https://136.0.197.4:14163/IE2P4yduao0xKJ7TDx/,VPS🛜"
   - "DOMAIN,https://cloudflaresub.qq2049323189.workers.dev/,VPS🛜"
   - "DOMAIN-KEYWORD,iCloud,DIRECT"
+  - "DOMAIN-KEYWORD,steam,VPS🛜"
+  - "DOMAIN-SUFFIX,store.steampowered.com,VPS🛜"
   - 'PROCESS-PATH,E:\WeGameApps,DIRECT'
   - 'PROCESS-PATH,E:\WeGame,🌐 全球直连'
   - 'PROCESS-PATH,D:\douyin,🌐 全球直连'
@@ -2871,3 +2852,4 @@ rules:
   - "GEOIP,CN,🌐 全球直连"
   - "GEOSITE,geolocation-!cn,➡️优先使用"
   - "MATCH,➡️优先使用"
+
