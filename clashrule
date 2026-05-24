@@ -2762,13 +2762,21 @@ rules:
   - "DOMAIN-KEYWORD,wise.com,🌐 全球直连"
 
     # ━━━━━━━━━━━━━━ 社交媒体分流 ━━━━━━━━━━━━━━
+
+    # ━━━━━━━━━━━━━━ X ━━━━━━━━━━━━━━
   - "GEOSITE,twitter,X"
   - "DOMAIN-SUFFIX,api.x.com,X"
   - DOMAIN-SUFFIX,chat-ws.x.com,X
   - DOMAIN-SUFFIX,probe.twitter.com,X
+
+    # ━━━━━━━━━━━━━━ Telegram ━━━━━━━━━━━━━━
   - "GEOSITE,telegram,📲 Telegram"
+
+    # ━━━━━━━━━━━━━━ instagram ━━━━━━━━━━━━━━
   - "GEOSITE,instagram,➡️优先使用"
   - "GEOSITE,facebook,➡️优先使用"
+
+    # ━━━━━━━━━━━━━━ DR ━━━━━━━━━━━━━━
   - "GEOSITE,discord,🐦 Discord"
   - "GEOSITE,reddit,📖 Reddit"
 
@@ -2852,4 +2860,3 @@ rules:
   - "GEOIP,CN,🌐 全球直连"
   - "GEOSITE,geolocation-!cn,➡️优先使用"
   - "MATCH,➡️优先使用"
-
