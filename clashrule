@@ -2725,6 +2725,9 @@ rules:
 
   # GitHub Copilot / AI 相关
   - "DOMAIN-SUFFIX,github.com,🗽US专线"
+  - "DOMAIN-KEYWORD,github,🗽US专线"
+  - "DOMAIN-SUFFIX,github.com,🗽US专线"
+  - "DOMAIN-SUFFIX,githubusercontent.com,🗽US专线"
 
     # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
   - "DOMAIN,localhost,🌐 全球直连"
