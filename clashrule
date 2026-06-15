@@ -2383,13 +2383,13 @@ proxy-groups:
       - "TEST3-CJNTEST3"
       - "🇺🇸 美国节点"
 
-  - name: "🪙 Paypal[直连]"
+  - name: "🪙 Paypal"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "🌐 全球直连"
+      - "🗽US专线&US券商"
 
   - name: "📖 Reddit"
     type: url-test
@@ -2630,7 +2630,7 @@ rules:
   # ━━━━━━━━━━━━━━ Web3 CRYPTO&TRADING ━━━━━━━━━━━━━━
 
   # Interactive Brokers
-  - "DOMAIN-KEYWORD,interactivebrokers,🗽US专线&US券商"
+  - "DOMAIN-KEYWORD,interactivebrokers,🌐 全球直连"
 
   # Binance
   - "DOMAIN-SUFFIX,binance.com,台湾专线(crypto)"
@@ -2737,7 +2737,7 @@ rules:
   - "DOMAIN-SUFFIX,za.group,🌐 全球直连"
 
   # PayPal
-  - "GEOSITE,paypal,🪙 Paypal[直连]"
+  - "GEOSITE,paypal,🪙 Paypal"
 
   # Wise
   - "DOMAIN-KEYWORD,wise.com,🌐 全球直连"
