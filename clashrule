@@ -19,696 +19,648 @@ proxies:
       path: /elviscjn
       headers:
         Host: ELVIS.elvisisbest0602.ccwu.cc
-  - name: HK🐲™️【免费共享】
-    type: vmess
-    server: 104.16.155.111
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: HK🐲™️【免费共享】 2
-    type: vmess
-    server: 198.41.201.73
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】
-    type: vmess
-    server: 104.19.101.213
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 2
-    type: vmess
-    server: 104.18.193.84
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 3
-    type: vmess
-    server: 104.16.164.18
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 4
-    type: vmess
-    server: 198.41.214.123
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 5
-    type: vmess
-    server: 104.18.195.239
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 6
-    type: vmess
-    server: 198.41.202.43
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 7
-    type: vmess
-    server: 198.41.218.234
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: SG🐲™️【免费共享】 8
-    type: vmess
-    server: 104.17.190.4
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】
-    type: vmess
-    server: 104.18.121.2
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 2
-    type: vmess
-    server: 104.17.222.192
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 3
-    type: vmess
-    server: 104.16.12.20
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 4
-    type: vmess
-    server: 162.159.94.116
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 5
-    type: vmess
-    server: 104.17.65.38
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 6
-    type: vmess
-    server: 104.25.38.31
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 7
-    type: vmess
-    server: 104.17.212.233
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: JP🐲™️【免费共享】 8
-    type: vmess
-    server: 104.17.119.232
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: TW🐲™️【免费共享】
-    type: vmess
-    server: 104.17.210.25
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: TW🐲™️【免费共享】 2
-    type: vmess
-    server: 162.159.133.39
-    port: 443
-    uuid: d8e6a8c0-30e2-462e-9a50-d744564b3d0f
-    alterId: 0
-    cipher: auto
-    udp: true
-    tls: true
-    network: ws
-    servername: "ELVIS.elvisisbest0602.ccwu.cc"
-    ws-opts:
-      path: "/elviscjn"
-      headers:
-        Host: "ELVIS.elvisisbest0602.ccwu.cc"
-  - name: TW🐲™️【免费共享】 3
+  - name: "SG🐲™️【免费共享】"
     type: vless
-    server: 47.242.145.136
-    port: 8001
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 4
-    type: vless
-    server: 202.85.53.160
-    port: 7000
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 5
-    type: vless
-    server: 34.143.159.175
+    server: 13.250.131.37
     port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 6
+
+  - name: "SG🐲™️【免费共享】 2"
     type: vless
-    server: 168.138.165.174
+    server: 3.0.50.69
     port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 7
+
+  - name: "SG🐲™️【免费共享】 3"
+    type: vless
+    server: 13.213.109.65
+    port: 443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "SG🐲™️【免费共享】 4"
     type: vless
     server: 92.243.74.4
     port: 8443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 8
+
+  - name: "SG🐲™️【免费共享】 5"
     type: vless
-    server: 143.42.66.91
+    server: 27.50.48.69
+    port: 2083
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "SG🐲™️【免费共享】 6"
+    type: vless
+    server: 27.50.48.114
+    port: 2083
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "SG🐲™️【免费共享】 7"
+    type: vless
+    server: 52.76.110.129
+    port: 20001
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "SG🐲™️【免费共享】 8"
+    type: vless
+    server: 8.219.155.125
     port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 9
+
+  - name: "SG🐲™️【免费共享】 9"
     type: vless
-    server: 43.156.116.194
+    server: 8.222.185.236
     port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: TW🐲™️【免费共享】 10
+
+  - name: "SG🐲™️【免费共享】 10"
     type: vless
-    server: 146.235.19.79
-    port: 28983
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】
-    type: vless
-    server: 129.150.48.17
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 2
-    type: vless
-    server: 91.192.81.154
-    port: 2053
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 3
-    type: vless
-    server: 155.248.181.189
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 4
-    type: vless
-    server: 109.123.231.212
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 5
-    type: vless
-    server: 140.238.50.134
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 6
-    type: vless
-    server: 168.138.46.67
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 7
-    type: vless
-    server: 38.47.105.82
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 8
-    type: vless
-    server: 153.121.45.101
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
-    tls: true
-    network: ws
-    servername: elviscjngood.ccwu.cc
-    ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 9
-    type: vless
-    server: 47.79.145.241
+    server: 43.128.111.158
     port: 4439
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: KR🐲™️【免费共享】 10
+
+  - name: "JP🐲™️【免费共享】"
     type: vless
-    server: 43.167.157.65
-    port: 12345
+    server: 140.83.57.183
+    port: 22735
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】
+
+  - name: "JP🐲™️【免费共享】 2"
     type: vless
-    server: 165.154.226.214
-    port: 27017
+    server: 140.83.54.126
+    port: 34237
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 2
+
+  - name: "JP🐲™️【免费共享】 3"
     type: vless
-    server: 60.251.232.240
-    port: 995
+    server: 8.216.121.234
+    port: 51922
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 3
+
+  - name: "JP🐲™️【免费共享】 4"
     type: vless
-    server: 60.248.139.106
-    port: 32770
+    server: 138.2.39.24
+    port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 4
+
+  - name: "JP🐲™️【免费共享】 5"
     type: vless
-    server: 220.128.110.108
-    port: 43
+    server: 203.189.233.99
+    port: 8443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 5
+
+  - name: "JP🐲™️【免费共享】 6"
     type: vless
-    server: 114.32.9.249
-    port: 16443
+    server: 138.2.39.24
+    port: 12308
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 6
+
+  - name: "JP🐲™️【免费共享】 7"
     type: vless
-    server: 60.248.139.106
-    port: 10428
+    server: 3.115.38.151
+    port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 7
+
+  - name: "JP🐲™️【免费共享】 8"
     type: vless
-    server: 60.248.139.106
-    port: 23281
+    server: 18.183.224.152
+    port: 443
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 8
+
+  - name: "JP🐲™️【免费共享】 9"
     type: vless
-    server: 60.248.139.106
-    port: 12128
+    server: 172.104.113.18
+    port: 74
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 9
+
+  - name: "JP🐲™️【免费共享】 10"
     type: vless
-    server: 60.248.139.106
-    port: 11017
+    server: 217.142.227.105
+    port: 20071
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
-  - name: US🐲™️【免费共享】 10
+
+  - name: "TW🐲™️【免费共享】"
     type: vless
-    server: 114.32.9.249
-    port: 51443
+    server: 166.0.198.81
+    port: 28015
     uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    skip-cert-verify: false
-    client-fingerprint: chrome
     tls: true
-    network: ws
+    skip-cert-verify: false
     servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
     ws-opts:
-      path: /proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "TW🐲™️【免费共享】 2"
+    type: vless
+    server: 166.0.198.81
+    port: 28017
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "TW🐲™️【免费共享】 3"
+    type: vless
+    server: 166.0.198.81
+    port: 28080
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】"
+    type: vless
+    server: 123.111.169.70
+    port: 2053
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 2"
+    type: vless
+    server: 14.52.210.173
+    port: 12312
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 3"
+    type: vless
+    server: 112.160.59.185
+    port: 16088
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 4"
+    type: vless
+    server: 125.135.22.76
+    port: 10045
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 5"
+    type: vless
+    server: 220.85.144.155
+    port: 10036
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 6"
+    type: vless
+    server: 123.111.169.70
+    port: 2083
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 7"
+    type: vless
+    server: 183.105.125.181
+    port: 12129
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 8"
+    type: vless
+    server: 210.100.215.99
+    port: 21272
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 9"
+    type: vless
+    server: 116.44.53.251
+    port: 12211
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "KR🐲™️【免费共享】 10"
+    type: vless
+    server: 123.111.169.70
+    port: 2096
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】"
+    type: vless
+    server: 172.64.144.190
+    port: 2087
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 2"
+    type: vless
+    server: 162.159.8.254
+    port: 443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 3"
+    type: vless
+    server: 8.35.211.15
+    port: 2087
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 4"
+    type: vless
+    server: 104.18.39.181
+    port: 2083
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 5"
+    type: vless
+    server: 8.35.211.229
+    port: 2053
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 6"
+    type: vless
+    server: 104.18.39.181
+    port: 2087
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 7"
+    type: vless
+    server: 8.35.211.41
+    port: 8443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 8"
+    type: vless
+    server: 75.2.79.84
+    port: 443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 9"
+    type: vless
+    server: 172.64.151.1
+    port: 443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
+      headers:
+        Host: elviscjngood.ccwu.cc
+
+  - name: "US🐲™️【免费共享】 10"
+    type: vless
+    server: 172.64.158.182
+    port: 443
+    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
+    tls: true
+    skip-cert-verify: false
+    servername: elviscjngood.ccwu.cc
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
       headers:
         Host: elviscjngood.ccwu.cc
   - name: "美国A-基础线路1 | TCP"
@@ -1702,8 +1654,6 @@ proxy-groups:
       - "日本C-基础线路2 | TCP"
       - "摩尔多瓦-基础线路1 | TCP"
       - "越南-基础线路1 | TCP"
-      - HK🐲™️【免费共享】
-      - "HK🐲™️【免费共享】 2"
       - "SG🐲™️【免费共享】"
       - "SG🐲™️【免费共享】 2"
       - "SG🐲™️【免费共享】 3"
@@ -1712,6 +1662,8 @@ proxy-groups:
       - "SG🐲™️【免费共享】 6"
       - "SG🐲™️【免费共享】 7"
       - "SG🐲™️【免费共享】 8"
+      - "SG🐲™️【免费共享】 9"
+      - "SG🐲™️【免费共享】 10"
       - "JP🐲™️【免费共享】"
       - "JP🐲™️【免费共享】 2"
       - "JP🐲™️【免费共享】 3"
@@ -1720,16 +1672,11 @@ proxy-groups:
       - "JP🐲™️【免费共享】 6"
       - "JP🐲™️【免费共享】 7"
       - "JP🐲™️【免费共享】 8"
+      - "JP🐲™️【免费共享】 9"
+      - "JP🐲™️【免费共享】 10"
       - "TW🐲™️【免费共享】"
       - "TW🐲™️【免费共享】 2"
       - "TW🐲™️【免费共享】 3"
-      - "TW🐲™️【免费共享】 4"
-      - "TW🐲™️【免费共享】 5"
-      - "TW🐲™️【免费共享】 6"
-      - "TW🐲™️【免费共享】 7"
-      - "TW🐲™️【免费共享】 8"
-      - "TW🐲™️【免费共享】 9"
-      - "TW🐲™️【免费共享】 10"
       - "KR🐲™️【免费共享】"
       - "KR🐲™️【免费共享】 2"
       - "KR🐲™️【免费共享】 3"
@@ -1799,34 +1746,35 @@ proxy-groups:
   - name: "专线"
     type: select
     proxies: 
-      - "美国A-CMI专线1"
-      - "美国A-CMI专线2"
-      - "美国B-CMI专线1"
-      - "美国B-CMI专线2"
-      - "美国C-CMI专线1"
-      - "美国C-CMI专线2"
-      - "德国-CMI专线1"
-      - "德国-CMI专线2"
-      - "加拿大-CMI专线1"
-      - "台湾-CMI专线1"
-      - "英国-CMI专线1"
-      - "新加坡A-CMI专线1"
-      - "新加坡A-CMI专线2"
-      - "新加坡B-CMI专线1"
-      - "新加坡B-CMI专线2"
-      - "新加坡C-CMI专线1"
-      - "新加坡C-CMI专线2"
-      - "香港A-CMI专线1"
-      - "香港B-CMI专线1"
-      - "香港C-CMI专线2"
-      - "日本A-CMI专线1"
-      - "日本A-CMI专线2"
-      - "日本B-CMI专线1"
-      - "日本B-CMI专线2"
-      - "日本C-CMI专线1"
-      - "日本C-CMI专线2"
-      - "摩尔多瓦-CMI专线1"
-      - "越南-CMI专线1"          
+      - "美国A-专线1"
+      - "美国A-专线2"
+      - "美国B-专线1"
+      - "美国B-专线2"
+      - "美国C-专线1"
+      - "美国C-专线2"
+      - "德国-专线1"
+      - "德国-专线2"
+      - "加拿大-专线1"
+      - "英国-专线1"
+      - "新加坡A-专线1"
+      - "新加坡A-专线2"
+      - "新加坡B-专线1"
+      - "新加坡B-专线2"
+      - "新加坡C-专线1"
+      - "新加坡C-专线2"
+      - "香港A-专线1"
+      - "香港A-专线2"
+      - "香港B-专线1"
+      - "香港B-专线2"
+      - "香港C-专线2"
+      - "日本A-专线1"
+      - "日本A-专线2"
+      - "日本B-专线1"
+      - "日本B-专线2"
+      - "日本C-专线1"
+      - "日本C-专线2"
+      - "摩尔多瓦-专线1"
+      - "越南-专线1"     
 
   - name: "出站🚉"
     type: url-test
@@ -1919,8 +1867,6 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "HK🐲™️【免费共享】"
-      - "HK🐲™️【免费共享】 2"
       - "SG🐲™️【免费共享】"
       - "SG🐲™️【免费共享】 2"
       - "SG🐲™️【免费共享】 3"
@@ -1929,6 +1875,8 @@ proxy-groups:
       - "SG🐲™️【免费共享】 6"
       - "SG🐲™️【免费共享】 7"
       - "SG🐲™️【免费共享】 8"
+      - "SG🐲™️【免费共享】 9"
+      - "SG🐲™️【免费共享】 10"
       - "JP🐲™️【免费共享】"
       - "JP🐲™️【免费共享】 2"
       - "JP🐲™️【免费共享】 3"
@@ -1937,16 +1885,11 @@ proxy-groups:
       - "JP🐲™️【免费共享】 6"
       - "JP🐲™️【免费共享】 7"
       - "JP🐲™️【免费共享】 8"
+      - "JP🐲™️【免费共享】 9"
+      - "JP🐲™️【免费共享】 10"
       - "TW🐲™️【免费共享】"
       - "TW🐲™️【免费共享】 2"
       - "TW🐲™️【免费共享】 3"
-      - "TW🐲™️【免费共享】 4"
-      - "TW🐲™️【免费共享】 5"
-      - "TW🐲™️【免费共享】 6"
-      - "TW🐲™️【免费共享】 7"
-      - "TW🐲™️【免费共享】 8"
-      - "TW🐲™️【免费共享】 9"
-      - "TW🐲™️【免费共享】 10"
       - "KR🐲™️【免费共享】"
       - "KR🐲™️【免费共享】 2"
       - "KR🐲™️【免费共享】 3"
@@ -2027,13 +1970,6 @@ proxy-groups:
       - "TW🐲™️【免费共享】"
       - "TW🐲™️【免费共享】 2"
       - "TW🐲™️【免费共享】 3"
-      - "TW🐲™️【免费共享】 4"
-      - "TW🐲™️【免费共享】 5"
-      - "TW🐲™️【免费共享】 6"
-      - "TW🐲™️【免费共享】 7"
-      - "TW🐲™️【免费共享】 8"
-      - "TW🐲™️【免费共享】 9"
-      - "TW🐲™️【免费共享】 10"
 
   - name: "抖音"
     type: select
@@ -2138,10 +2074,6 @@ proxy-groups:
     proxies:
       - "🌐直连"
 
-  - name: "🎮 游戏平台[直连]"
-    type: select
-    proxies:
-      - "🌐直连"
 
   - name: "台湾(crypto)"
     type: url-test
@@ -2149,6 +2081,7 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
+      - "台湾-基础线路1 | TCP"
 
 
   - name: "🇭🇰 香港节点"
@@ -2157,15 +2090,15 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "香港A-线路1 | TCP"
-      - "香港A-线路2 | TCP"
-      - "香港A-CMI专线1"
-      - "香港B-线路1 | TCP"
-      - "香港B-线路2 | TCP"
-      - "香港B-CMI专线1"
-      - "香港C-CMI专线2"
-      - "HK🐲™️【免费共享】"
-      - "HK🐲™️【免费共享】 2"
+      - "香港A-基础线路1 | TCP"
+      - "香港A-基础线路2 | TCP"
+      - "香港A-专线1"
+      - "香港A-专线2"
+      - "香港B-基础线路1 | TCP"
+      - "香港B-基础线路2 | TCP"
+      - "香港B-专线1"
+      - "香港B-专线2"
+      - "香港C-专线2"
 
   - name: "🇺🇸 美国节点"
     type: url-test
@@ -2173,18 +2106,18 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国A-线路1 | TCP"
-      - "美国A-线路2 | TCP"
-      - "美国A-CMI专线1"
-      - "美国A-CMI专线2"
-      - "美国B-线路1 | TCP"
-      - "美国B-线路2 | TCP"
-      - "美国B-CMI专线1"
-      - "美国B-CMI专线2"
-      - "美国C-线路1 | TCP"
-      - "美国C-线路2 | TCP"
-      - "美国C-CMI专线1"
-      - "美国C-CMI专线2"
+      - "美国A-基础线路1 | TCP"
+      - "美国A-基础线路2 | TCP"
+      - "美国A-专线1"
+      - "美国A-专线2"
+      - "美国B-基础线路1 | TCP"
+      - "美国B-基础线路2 | TCP"
+      - "美国B-专线1"
+      - "美国B-专线2"
+      - "美国C-基础线路1 | TCP"
+      - "美国C-基础线路2 | TCP"
+      - "美国C-专线1"
+      - "美国C-专线2"
       - "美国D-线路4 | HY2"
 
   - name: "🇰🇷 韩国节点"
@@ -2210,28 +2143,18 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-线路1 | TCP"
-      - "台湾-CMI专线1"
-      - "台湾-Hinet专线"
+      - "台湾-基础线路1 | TCP"
       - "TW🐲™️【免费共享】"
       - "TW🐲™️【免费共享】 2"
       - "TW🐲™️【免费共享】 3"
-      - "TW🐲™️【免费共享】 4"
-      - "TW🐲™️【免费共享】 5"
-      - "TW🐲™️【免费共享】 6"
-      - "TW🐲™️【免费共享】 7"
-      - "TW🐲™️【免费共享】 8"
-      - "TW🐲™️【免费共享】 9"
-      - "TW🐲™️【免费共享】 10"
-
   - name: "🇬🇧 英国节点"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "英国-线路1 | TCP"
-      - "英国-CMI专线1"
+      - "英国-基础线路1 | TCP"
+      - "英国-专线1"
 
   - name: "🇯🇵 日本节点"
     type: url-test
@@ -2239,26 +2162,18 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "日本A-线路1 | TCP"
-      - "日本A-线路2 | TCP"
-      - "日本A-CMI专线1"
-      - "日本A-CMI专线2"
-      - "日本B-线路1 | TCP"
-      - "日本B-线路2 | TCP"
-      - "日本B-CMI专线1"
-      - "日本B-CMI专线2"
-      - "日本C-线路1 | TCP"
-      - "日本C-线路2 | TCP"
-      - "日本C-CMI专线1"
-      - "日本C-CMI专线2"
-      - "JP🐲™️【免费共享】"
-      - "JP🐲™️【免费共享】 2"
-      - "JP🐲™️【免费共享】 3"
-      - "JP🐲™️【免费共享】 4"
-      - "JP🐲™️【免费共享】 5"
-      - "JP🐲™️【免费共享】 6"
-      - "JP🐲™️【免费共享】 7"
-      - "JP🐲™️【免费共享】 8"
+      - "日本A-基础线路1 | TCP"
+      - "日本A-基础线路2 | TCP"
+      - "日本A-专线1"
+      - "日本A-专线2"
+      - "日本B-基础线路1 | TCP"
+      - "日本B-基础线路2 | TCP"
+      - "日本B-专线1"
+      - "日本B-专线2"
+      - "日本C-基础线路1 | TCP"
+      - "日本C-基础线路2 | TCP"
+      - "日本C-专线1"
+      - "日本C-专线2"
 
   - name: "🇸🇬 新加坡节点"
     type: url-test
@@ -2266,18 +2181,18 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "新加坡A-线路1 | TCP"
-      - "新加坡A-线路2 | TCP"
-      - "新加坡A-CMI专线1"
-      - "新加坡A-CMI专线2"
-      - "新加坡B-线路1 | TCP"
-      - "新加坡B-线路2 | TCP"
-      - "新加坡B-CMI专线1"
-      - "新加坡B-CMI专线2"
-      - "新加坡C-线路1 | TCP"
-      - "新加坡C-线路2 | TCP"
-      - "新加坡C-CMI专线1"
-      - "新加坡C-CMI专线2"
+      - "新加坡A-基础线路1 | TCP"
+      - "新加坡A-基础线路2 | TCP"
+      - "新加坡A-专线1"
+      - "新加坡A-专线2"
+      - "新加坡B-基础线路1 | TCP"
+      - "新加坡B-基础线路2 | TCP"
+      - "新加坡B-专线1"
+      - "新加坡B-专线2"
+      - "新加坡C-基础线路1 | TCP"
+      - "新加坡C-基础线路2 | TCP"
+      - "新加坡C-专线1"
+      - "新加坡C-专线2"
       - "SG🐲™️【免费共享】"
       - "SG🐲™️【免费共享】 2"
       - "SG🐲™️【免费共享】 3"
@@ -2286,6 +2201,8 @@ proxy-groups:
       - "SG🐲™️【免费共享】 6"
       - "SG🐲™️【免费共享】 7"
       - "SG🐲™️【免费共享】 8"
+      - "SG🐲™️【免费共享】 9"
+      - "SG🐲™️【免费共享】 10"
 
   - name: "🇩🇪 德国"
     type: url-test
@@ -2293,11 +2210,11 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "德国-线路1 | TCP"
-      - "德国-线路2 | TCP"
-      - "德国-CMI专线1"
+      - "德国-基础线路1 | TCP"
+      - "德国-基础线路2 | TCP"
+      - "德国-专线1"
+      - "德国-专线2"
       - "德国-线路4 | HY2"
-      - "德国-CMI专线2"
 
   - name: "🇨🇦 加拿大"
     type: url-test
@@ -2305,30 +2222,11 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "加拿大-线路1 | TCP"
-      - "加拿大-CMI专线1"
+      - "加拿大-基础线路1 | TCP"
+      - "加拿大-专线1"
       - "加拿大-线路4 | HY2"
 
-  - name: "♻️ ALL"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "VPS🛜"
-      - "🇺🇸 美国节点"
-      - "🇭🇰 香港节点"
-      - "🇯🇵 日本节点"
-      - "🇸🇬 新加坡节点"
-      - "🇨🇳 台湾节点"
-      - "🇰🇷 韩国节点"
-      - "🇩🇪 德国"
-      - "🇨🇦 加拿大"
-      - "🇬🇧 英国节点"
-      - "摩尔多瓦-线路1 | TCP"
-      - "摩尔多瓦-CMI专线1"
-      - "越南-线路1 | TCP"
-      - "越南-CMI专线1"
+
 rules:
   # ━━━━━━━━━━━━━━ Web3 CRYPTO&TRADING ━━━━━━━━━━━━━━
 
@@ -2336,12 +2234,12 @@ rules:
   - "DOMAIN-KEYWORD,interactivebrokers,🌐直连"
 
   # Binance
-  - "DOMAIN-SUFFIX,binance.com,台湾专线(crypto)"
+  - "DOMAIN-SUFFIX,binance.com,台湾(crypto)"
 
   # Bitget
-  - "DOMAIN-SUFFIX,appapi.bitget.com,台湾专线(crypto)"
-  - "DOMAIN-SUFFIX,stream.bitget.com,台湾专线(crypto)"
-  - "DOMAIN-SUFFIX,testimg.bitgetapp.com,台湾专线(crypto)"
+  - "DOMAIN-SUFFIX,appapi.bitget.com,台湾(crypto)"
+  - "DOMAIN-SUFFIX,stream.bitget.com,台湾(crypto)"
+  - "DOMAIN-SUFFIX,testimg.bitgetapp.com,台湾(crypto)"
 
   # TradingView
   - "DOMAIN-SUFFIX,tradingview.com,🗽US专线&US券商"
@@ -2370,7 +2268,6 @@ rules:
   # Gemini / Google AI
   - "DOMAIN-SUFFIX,lh3.googleusercontent.com,AI"
   - "DOMAIN-KEYWORD,gemini,AI"
-  - "DOMAIN-KEYWORD,gemini,AI"
 
   # Claude / Anthropic
   - "DOMAIN-SUFFIX,anthropic.com,AI"
@@ -2379,7 +2276,6 @@ rules:
   # GitHub Copilot / AI 相关
   - "DOMAIN-SUFFIX,github.com,AI"
   - "DOMAIN-KEYWORD,github,AI"
-  - "DOMAIN-SUFFIX,github.com,AI"
   - "DOMAIN-SUFFIX,githubusercontent.com,AI"
 
   # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
@@ -2405,20 +2301,6 @@ rules:
   # Riot Games / League of Legends
   - "DOMAIN-SUFFIX,mlol.qt.qq.com,🌐直连"
 
-  # Epic Games
-  - "GEOSITE,epicgames,🎮 游戏平台[直连]"
-
-  # PlayStation
-  - "GEOSITE,playstation,🎮 游戏平台[直连]"
-
-  # Steam
-  - "GEOSITE,steam,🎮 游戏平台[直连]"
-
-  # Nintendo
-  - "GEOSITE,nintendo,🎮 游戏平台[直连]"
-
-  # Blizzard
-  - "GEOSITE,blizzard,🎮 游戏平台[直连]"
 
   # ━━━━━━━━━━━━━━ Apple 服务矩阵 ━━━━━━━━━━━━━━
 
@@ -2585,7 +2467,6 @@ rules:
   - 'PROCESS-PATH,D:\douyin,🌐直连'
 
   # Windhawk
-  - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
   - 'PROCESS-PATH,D:\an-zhuang-bao\Windhawk,➡️优先使用'
 
   # BerryPass
