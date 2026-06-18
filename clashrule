@@ -1776,13 +1776,6 @@ proxy-groups:
       - "摩尔多瓦-专线1"
       - "越南-专线1"     
 
-  - name: "出站🚉"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "TEST3-CJNTEST3"
 
   - name: "蓝莓桥🫐"
     type: select
