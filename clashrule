@@ -1743,7 +1743,7 @@ proxy-groups:
       - "越南-基础线路1 | TCP"
 
 
-  - name: "专线"
+  - name: "💻专线"
     type: select
     proxies: 
       - "美国A-专线1"
@@ -1854,7 +1854,7 @@ proxy-groups:
       - "TEST3-CJNTEST3"
 
 
-  - name: "CDN"
+  - name: "☁️CDN"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -1918,7 +1918,7 @@ proxy-groups:
       - "美国C-专线2"
       - "加拿大-专线1"
 
-  - name: "AI"
+  - name: "🤖AI"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -1944,7 +1944,7 @@ proxy-groups:
       - "日本C-专线1"
       - "日本C-专线2"
 
-  - name: "COC"
+  - name: "🐗COC"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
@@ -1976,7 +1976,7 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "➡️优先使用"
-      - "专线"
+      - "💻专线"
 
   - name: "📹 YouTube"
     type: url-test
@@ -1985,7 +1985,7 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "➡️优先使用"
-      - "专线"
+      - "💻专线"
 
   - name: "🎥 Netflix"
     type: url-test
@@ -2011,13 +2011,12 @@ proxy-groups:
     proxies:
       - "➡️优先使用"
 
-  - name: "X"
+  - name: "🚀X"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "TEST3-CJNTEST3"
       - "🇺🇸 美国节点"
 
   - name: "🪙 Paypal"
@@ -2224,7 +2223,8 @@ rules:
   # ━━━━━━━━━━━━━━ Web3 CRYPTO&TRADING ━━━━━━━━━━━━━━
 
   # Interactive Brokers
-  - "DOMAIN-KEYWORD,interactivebrokers,🌐直连"
+  - 'DOMAIN-KEYWORD,ibkr,🗽US专线&US券商'
+  - "DOMAIN-KEYWORD,interactivebrokers,🗽US专线&US券商"
 
   # Binance
   - "DOMAIN-SUFFIX,binance.com,台湾(crypto)"
@@ -2247,29 +2247,29 @@ rules:
   # ━━━━━━━━━━━━━━ AI 生产力核心 ━━━━━━━━━━━━━━
 
   # OpenAI / ChatGPT
-  - "GEOSITE,openai,AI"
-  - "DOMAIN-KEYWORD,openai,AI"
-  - "DOMAIN-SUFFIX,openai.com,AI"
+  - "GEOSITE,openai,🤖AI"
+  - "DOMAIN-KEYWORD,openai,🤖AI"
+  - "DOMAIN-SUFFIX,openai.com,🤖AI"
 
   # Grok / X AI
-  - "DOMAIN-SUFFIX,grok.com,AI"
-  - "DOMAIN-SUFFIX,grok.x.com,AI"
+  - "DOMAIN-SUFFIX,grok.com,🤖AI"
+  - "DOMAIN-SUFFIX,grok.x.com,🤖AI"
 
   # Poe
-  - "DOMAIN-SUFFIX,poe.com,AI"
+  - "DOMAIN-SUFFIX,poe.com,🤖AI"
 
   # Gemini / Google AI
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,AI"
-  - "DOMAIN-KEYWORD,gemini,AI"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,🤖AI"
+  - "DOMAIN-KEYWORD,gemini,🤖AI"
 
   # Claude / Anthropic
-  - "DOMAIN-SUFFIX,anthropic.com,AI"
-  - "DOMAIN-KEYWORD,claude,AI"
+  - "DOMAIN-SUFFIX,anthropic.com,🤖AI"
+  - "DOMAIN-KEYWORD,claude,🤖AI"
 
   # GitHub Copilot / AI 相关
-  - "DOMAIN-SUFFIX,github.com,AI"
-  - "DOMAIN-KEYWORD,github,AI"
-  - "DOMAIN-SUFFIX,githubusercontent.com,AI"
+  - "DOMAIN-SUFFIX,github.com,🤖AI"
+  - "DOMAIN-KEYWORD,github,🤖AI"
+  - "DOMAIN-SUFFIX,githubusercontent.com,🤖AI"
 
   # ━━━━━━━━━━━━━━ 基础网络与局域网 ━━━━━━━━━━━━━━
 
@@ -2286,10 +2286,10 @@ rules:
   # ━━━━━━━━━━━━━━ 游戏分流 (COC/英雄联盟) ━━━━━━━━━━━━━━
 
   # Supercell / COC
-  - "DOMAIN-SUFFIX,clash-static.inbox-staging.supercell.com,COC"
-  - "DOMAIN-SUFFIX,clash-static.inbox.supercell.com,COC"
-  - "DOMAIN-SUFFIX,clashofclans.inbox.supercell.com,COC"
-  - "DOMAIN-SUFFIX,id.supercell.com,COC"
+  - "DOMAIN-SUFFIX,clash-static.inbox-staging.supercell.com,🐗COC"
+  - "DOMAIN-SUFFIX,clash-static.inbox.supercell.com,🐗COC"
+  - "DOMAIN-SUFFIX,clashofclans.inbox.supercell.com,🐗COC"
+  - "DOMAIN-SUFFIX,id.supercell.com,🐗COC"
 
   # Riot Games / League of Legends
   - "DOMAIN-SUFFIX,mlol.qt.qq.com,🌐直连"
@@ -2314,6 +2314,9 @@ rules:
   # ZA Bank
   - "DOMAIN-SUFFIX,za.group,🌐直连"
 
+  #  iFAST
+  - 'DOMAIN,ifastgb.com,🇬🇧 英国节点'
+
   # PayPal
   - "GEOSITE,paypal,🪙 Paypal"
 
@@ -2323,11 +2326,11 @@ rules:
   # ━━━━━━━━━━━━━━ 社交媒体分流 ━━━━━━━━━━━━━━
 
   # X / Twitter
-  - "GEOSITE,twitter,X"
-  - "DOMAIN-KEYWORD,twitter,X"
-  - "DOMAIN-SUFFIX,api.x.com,X"
-  - "DOMAIN-SUFFIX,chat-ws.x.com,X"
-  - "DOMAIN-SUFFIX,probe.twitter.com,X"
+  - "GEOSITE,twitter,🚀X"
+  - "DOMAIN-KEYWORD,twitter,🚀X"
+  - "DOMAIN-SUFFIX,api.x.com,🚀X"
+  - "DOMAIN-SUFFIX,chat-ws.x.com,🚀X"
+  - "DOMAIN-SUFFIX,probe.twitter.com,🚀X"
 
   # Telegram
   - "GEOSITE,telegram,📲 Telegram"
@@ -2343,9 +2346,9 @@ rules:
   - "GEOSITE,reddit,📖 Reddit"
 
   # TikTok
-  - "GEOSITE,tiktok,CDN"
-  - "DOMAIN-KEYWORD,tiktok,CDN"
-  - "DOMAIN-SUFFIX,tiktokv.com,CDN"
+  - "GEOSITE,tiktok,☁️CDN"
+  - "DOMAIN-KEYWORD,tiktok,☁️CDN"
+  - "DOMAIN-SUFFIX,tiktokv.com,☁️CDN"
 
   # ━━━━━━━━━━━━━━ 流媒体娱乐 ━━━━━━━━━━━━━━
 
