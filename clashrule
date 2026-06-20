@@ -972,19 +972,64 @@ proxies:
     skip-cert-verify: false
     ports: 39101-39199
 
-  - name: "台湾-基础线路1 | TCP"
+  - name: "台湾-专线1"
     type: trojan
-    server: resolution1.entrance.868863.xyz
+    server: resolution1.private.berry-is-sweet.com
     port: 8443
     password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
     udp: true
     skip-cert-verify: false
-    sni: 17817829757804.berrycdn-1.com
+    sni: 17819654807545.berrycdn-3.com
     network: ws
     ws-opts:
-      path: /videomusicaeghmuaawe
+      path: /videotahyjhghmuaawe
       headers:
-        Host: d1.berrycdn-1.com
+        Host: d1.berrycdn-3.com
+
+  - name: "台湾-专线2"
+    type: vless
+    server: dedicated1.private.berry-is-sweet.com
+    port: 15041
+    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
+      short-id: 03694ac7f76e29
+    client-fingerprint: ios
+
+  - name: "台湾-Hinet线路"
+    type: vless
+    server: d1.868863.xyz
+    port: 37001
+    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
+      short-id: 03694ac7f76e29
+    client-fingerprint: firefox
+
+  - name: "台湾-线路4 | HY2"
+    server: d1.868863.xyz
+    port: 39102
+    sni: d1.868863.xyz
+    up: null
+    down: null
+    skip-cert-verify: false
+    ports: 39101-39199
+    type: hysteria2
+    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
 
   - name: "英国-基础线路1 | TCP"
     type: trojan
@@ -1599,6 +1644,10 @@ proxy-groups:
       - "美国B-专线2"
       - "美国C-专线1"
       - "美国C-专线2"
+      - "台湾-专线1"
+      - "台湾-专线2"
+      - "台湾-Hinet线路"
+      - "台湾-线路4 | HY2"
       - "德国-专线1"
       - "德国-专线2"
       - "加拿大-专线1"
@@ -1634,7 +1683,6 @@ proxy-groups:
       - "德国-线路4 | HY2"
       - "加拿大-基础线路1 | TCP"
       - "加拿大-线路4 | HY2"
-      - "台湾-基础线路1 | TCP"
       - "英国-基础线路1 | TCP"
       - "新加坡A-基础线路1 | TCP"
       - "新加坡A-基础线路2 | TCP"
@@ -1707,8 +1755,6 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "TEST3-CJNTEST3"
-      - "摩尔多瓦-专线1"
-      - "越南-专线1"
       - "美国A-基础线路1 | TCP"
       - "美国A-基础线路2 | TCP"
       - "美国B-基础线路1 | TCP"
@@ -1716,12 +1762,12 @@ proxy-groups:
       - "美国C-基础线路1 | TCP"
       - "美国C-基础线路2 | TCP"
       - "美国D-线路4 | HY2"
+
       - "德国-基础线路1 | TCP"
       - "德国-基础线路2 | TCP"
       - "德国-线路4 | HY2"
       - "加拿大-基础线路1 | TCP"
       - "加拿大-线路4 | HY2"
-      - "台湾-基础线路1 | TCP"
       - "英国-基础线路1 | TCP"
       - "新加坡A-基础线路1 | TCP"
       - "新加坡A-基础线路2 | TCP"
@@ -1743,6 +1789,7 @@ proxy-groups:
       - "越南-基础线路1 | TCP"
 
 
+
   - name: "💻专线"
     type: select
     proxies: 
@@ -1752,6 +1799,8 @@ proxy-groups:
       - "美国B-专线2"
       - "美国C-专线1"
       - "美国C-专线2"
+      - "台湾-专线1"
+      - "台湾-专线2"
       - "德国-专线1"
       - "德国-专线2"
       - "加拿大-专线1"
@@ -1804,7 +1853,8 @@ proxy-groups:
       - "加拿大-基础线路1 | TCP"
       - "加拿大-专线1"
       - "加拿大-线路4 | HY2"
-      - "台湾-基础线路1 | TCP"
+      - "台湾-Hinet线路"
+      - "台湾-线路4 | HY2"
       - "英国-基础线路1 | TCP"
       - "英国-专线1"
       - "新加坡A-基础线路1 | TCP"
@@ -1959,10 +2009,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-基础线路1 | TCP"
-      - "TW🐲™️【免费共享】"
-      - "TW🐲™️【免费共享】 2"
-      - "TW🐲™️【免费共享】 3"
+      - "台湾-Hinet线路"
+      - "台湾-线路4 | HY2"
 
   - name: "抖音"
     type: select
@@ -2071,7 +2119,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-基础线路1 | TCP"
+      - "台湾-专线1"
+      - "台湾-专线2"
 
 
   - name: "🇭🇰 香港节点"
@@ -2133,7 +2182,10 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-基础线路1 | TCP"
+      - "台湾-专线1"
+      - "台湾-专线2"
+      - "台湾-Hinet线路"
+      - "台湾-线路4 | HY2"
       - "TW🐲™️【免费共享】"
       - "TW🐲™️【免费共享】 2"
       - "TW🐲™️【免费共享】 3"
