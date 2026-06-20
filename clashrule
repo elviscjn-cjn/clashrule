@@ -1976,7 +1976,6 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "➡️优先使用"
-      - "💻专线"
 
   - name: "📹 YouTube"
     type: url-test
@@ -1985,7 +1984,6 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "➡️优先使用"
-      - "💻专线"
 
   - name: "🎥 Netflix"
     type: url-test
