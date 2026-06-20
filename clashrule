@@ -2276,6 +2276,10 @@ rules:
   - 'DOMAIN-KEYWORD,ibkr,🗽US专线&US券商'
   - "DOMAIN-KEYWORD,interactivebrokers,🗽US专线&US券商"
 
+  # Hyperliquid
+  - 'DOMAIN-KEYWORD,hyperliquid,台湾(crypto)'
+
+
   # Binance
   - "DOMAIN-SUFFIX,binance.com,台湾(crypto)"
 
