@@ -19,1489 +19,93 @@ proxies:
       path: /elviscjn
       headers:
         Host: ELVIS.elvisisbest0602.ccwu.cc
-  - name: "SG🐲™️【免费共享】"
+
+  - name: "剩余流量：99.99 GB"
     type: vless
-    server: 13.250.131.37
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 2"
-    type: vless
-    server: 3.0.50.69
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 3"
-    type: vless
-    server: 13.213.109.65
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 4"
-    type: vless
-    server: 92.243.74.4
-    port: 8443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 5"
-    type: vless
-    server: 27.50.48.69
-    port: 2083
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 6"
-    type: vless
-    server: 27.50.48.114
-    port: 2083
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 7"
-    type: vless
-    server: 52.76.110.129
-    port: 20001
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 8"
-    type: vless
-    server: 8.219.155.125
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 9"
-    type: vless
-    server: 8.222.185.236
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "SG🐲™️【免费共享】 10"
-    type: vless
-    server: 43.128.111.158
-    port: 4439
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】"
-    type: vless
-    server: 140.83.57.183
-    port: 22735
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 2"
-    type: vless
-    server: 140.83.54.126
-    port: 34237
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 3"
-    type: vless
-    server: 8.216.121.234
-    port: 51922
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 4"
-    type: vless
-    server: 138.2.39.24
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 5"
-    type: vless
-    server: 203.189.233.99
-    port: 8443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 6"
-    type: vless
-    server: 138.2.39.24
-    port: 12308
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 7"
-    type: vless
-    server: 3.115.38.151
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 8"
-    type: vless
-    server: 18.183.224.152
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 9"
-    type: vless
-    server: 172.104.113.18
-    port: 74
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "JP🐲™️【免费共享】 10"
-    type: vless
-    server: 217.142.227.105
-    port: 20071
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "TW🐲™️【免费共享】"
-    type: vless
-    server: 166.0.198.81
-    port: 28015
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "TW🐲™️【免费共享】 2"
-    type: vless
-    server: 166.0.198.81
-    port: 28017
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "TW🐲™️【免费共享】 3"
-    type: vless
-    server: 166.0.198.81
-    port: 28080
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】"
-    type: vless
-    server: 123.111.169.70
-    port: 2053
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 2"
-    type: vless
-    server: 14.52.210.173
-    port: 12312
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 3"
-    type: vless
-    server: 112.160.59.185
-    port: 16088
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 4"
-    type: vless
-    server: 125.135.22.76
-    port: 10045
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 5"
-    type: vless
-    server: 220.85.144.155
-    port: 10036
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 6"
-    type: vless
-    server: 123.111.169.70
-    port: 2083
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 7"
-    type: vless
-    server: 183.105.125.181
-    port: 12129
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 8"
-    type: vless
-    server: 210.100.215.99
-    port: 21272
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 9"
-    type: vless
-    server: 116.44.53.251
-    port: 12211
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "KR🐲™️【免费共享】 10"
-    type: vless
-    server: 123.111.169.70
-    port: 2096
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】"
-    type: vless
-    server: 172.64.144.190
-    port: 2087
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 2"
-    type: vless
-    server: 162.159.8.254
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 3"
-    type: vless
-    server: 8.35.211.15
-    port: 2087
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 4"
-    type: vless
-    server: 104.18.39.181
-    port: 2083
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 5"
-    type: vless
-    server: 8.35.211.229
-    port: 2053
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 6"
-    type: vless
-    server: 104.18.39.181
-    port: 2087
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 7"
-    type: vless
-    server: 8.35.211.41
-    port: 8443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 8"
-    type: vless
-    server: 75.2.79.84
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 9"
-    type: vless
-    server: 172.64.151.1
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-
-  - name: "US🐲™️【免费共享】 10"
-    type: vless
-    server: 172.64.158.182
-    port: 443
-    uuid: f2ce0464-799c-41e6-8658-ddf77f43aa65
-    tls: true
-    skip-cert-verify: false
-    servername: elviscjngood.ccwu.cc
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: "/proxyip=72.13.122.137,108.61.214.249,144.202.126.54,23.173.104.205,40.233.71.238,142.4.215.110,45.128.222.55"
-      headers:
-        Host: elviscjngood.ccwu.cc
-  - name: "美国A-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829757255.berrycdn-1.com
-    network: ws
-    ws-opts:
-       path: /videomusicaeghmuaawe
-       headers:
-        Host: a1.berrycdn-1.com
-
-  - name: "美国A-基础线路2 | TCP"
-    type: vless
-    server: a2.868863.xyz
-    port: 17001
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.sony.com
-    reality-opts:
-      public-key: XuHk1O4uiiTa24n42MK25whWyV3godzKzhj_YREzIFg
-      short-id: f2ec
-    client-fingerprint: safari
-
-  - name: "美国A-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756788.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: a1.berrycdn-3.com
-
-  - name: "美国A-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15011
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.sony.com
-    reality-opts:
-      public-key: mrM5P6BDajQpx4gylOujPITTJ2Jn_TDcXd_dISW8qzo
-      short-id: ad2ffc8efe6165
-    client-fingerprint: ios
-
-  - name: "美国B-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829757055.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: a1-b.berrycdn-1.com
-
-  - name: "美国B-基础线路2 | TCP"
-    type: vless
-    server: a2-b.868863.xyz
-    port: 17001
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: aws.com
-    reality-opts:
-      public-key: 7K9JLEfgpiEL_6hgYR21WPtdM8Qdka1076FeYWPwdjQ
-      short-id: 3cc30237a37d1c
-    client-fingerprint: qq
-
-  - name: "美国B-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829752493.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: a1-b.berrycdn-3.com
-
-  - name: "美国B-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15012
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: aws.com
-    reality-opts:
-      public-key: cEvwNNMKw5VGtqq7qCG6snboOsf8Tb-Lc-tUbSjp2nU
-      short-id: 6b04cb3161f4dc
-    client-fingerprint: safari
-
-  - name: "美国C-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829752654.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: a1-c.berrycdn-1.com
-
-  - name: "美国C-基础线路2 | TCP"
-    type: vless
-    server: a2-c.868863.xyz
-    port: 17001
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: aws.com
-    reality-opts:
-      public-key: xodpEYE0pI_XRnw9qxqil_wr0xm0M_RFh7GRFAUP_VE
-      short-id: f7798e6420
-    client-fingerprint: edge
-
-  - name: "美国C-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829754471.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: a1-c.berrycdn-3.com
-
-  - name: "美国C-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 10031
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.sony.com
-    reality-opts:
-      public-key: n0d5_8muEUapFu3ihLwDm61KDcfhugpdWnGkRhpnIWs
-      short-id: 8b870bd292790c
-    client-fingerprint: safari
-
-  - name: "美国D-线路4 | HY2"
-    type: hysteria2
-    server: a2-d.868863.xyz
-    port: 39143
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    sni: a2.868863.xyz
-    up: null
-    down: null
-    skip-cert-verify: false
-    ports: 39101-39199
-
-  - name: "德国-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756195.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: b1.berrycdn-1.com
-
-  - name: "德国-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10003
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: azure.microsoft.com
-    reality-opts:
-      public-key: u1Pd67k9WB1ZWMw26BSc2OqPnZdf6MSIrqbGMq8l3GY
-      short-id: 70d92ba3
-    client-fingerprint: chrome
-
-  - name: "德国-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829754724.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: b1.berrycdn-3.com
-
-  - name: "德国-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 10033
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: azure.microsoft.com
-    reality-opts:
-      public-key: JLzBuuSx6-ARl60pdIzkvTmnf9LjfPgmnUXyTY3AfwE
-      short-id: 39d1b65131e053
-    client-fingerprint: safari
-
-  - name: "德国-线路4 | HY2"
-    type: hysteria2
-    server: b2.868863.xyz
-    port: 39139
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    sni: b2.868863.xyz
-    up: null
-    down: null
-    skip-cert-verify: false
-    ports: 39101-39199
-
-  - name: "加拿大-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829752124.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: c1.berrycdn-1.com
-
-  - name: "加拿大-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829755561.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: c1.berrycdn-3.com
-
-  - name: "加拿大-线路4 | HY2"
-    type: hysteria2
-    server: c1.868863.xyz
-    port: 39161
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    sni: c1.868863.xyz
-    up: null
-    down: null
-    skip-cert-verify: false
-    ports: 39101-39199
-
-  - name: "台湾-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 8443
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17819654807545.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: d1.berrycdn-3.com
-
-  - name: "台湾-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15041
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.bing.com
-    reality-opts:
-      public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
-      short-id: 03694ac7f76e29
-    client-fingerprint: ios
-
-  - name: "台湾-Hinet线路"
-    type: vless
-    server: d1.868863.xyz
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
     port: 37001
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
     servername: www.bing.com
     reality-opts:
-      public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
-      short-id: 03694ac7f76e29
-    client-fingerprint: firefox
-
-  - name: "台湾-线路4 | HY2"
-    server: d1.868863.xyz
-    port: 39102
-    sni: d1.868863.xyz
-    up: null
-    down: null
-    skip-cert-verify: false
-    ports: 39101-39199
-    type: hysteria2
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-
-  - name: "英国-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829753575.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: e1.berrycdn-1.com
-
-  - name: "英国-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829757651.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: e1.berrycdn-3.com
-
-  - name: "新加坡A-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829753814.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: f1.berrycdn-1.com
-
-  - name: "新加坡A-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10004
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: azure.microsoft.com
-    reality-opts:
-      public-key: 6kY5QZR6KYsxY5nXSFDfTFCAVlpcH1rvvchcYS7ML0w
-      short-id: ae3579fda2c8
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
     client-fingerprint: safari
+    network: tcp
 
-  - name: "新加坡A-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756168.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: f1.berrycdn-3.com
-
-  - name: "新加坡A-专线2"
+  - name: "距离下次重置剩余：31 天"
     type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15061
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: amd.com
-    reality-opts:
-      public-key: QV-gLda3iinsMfD2QZjAl9rqM-ZoXyof1iPTFLfzJzY
-      short-id: '826209375e55'
-    client-fingerprint: ios
-
-  - name: "新加坡B-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829753645.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: f1-b.berrycdn-1.com
-
-  - name: "新加坡B-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10005
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.nvidia.com
-    reality-opts:
-      public-key: 7K9JLEfgpiEL_6hgYR21WPtdM8Qdka1076FeYWPwdjQ
-      short-id: 3cc30237a37d1c
-    client-fingerprint: qq
-
-  - name: "新加坡B-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829757428.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: f1-b.berrycdn-3.com
-
-  - name: "新加坡B-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15062
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: amd.com
-    reality-opts:
-      public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
-      short-id: e7f57d7d79a7af85
-    client-fingerprint: ios
-
-  - name: "新加坡C-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756472.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: f1-c.berrycdn-1.com
-
-  - name: "新加坡C-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 12063
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: azure.microsoft.com
-    reality-opts:
-      public-key: 1EH_m26WjCg64UBcYkktHWQ-qmpe3CislrCJt08Pni4
-      short-id: 7c3814ad1c77
-    client-fingerprint: safari
-
-  - name: "新加坡C-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2096
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829752262.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: f1-c.berrycdn-3.com
-
-  - name: "新加坡C-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 10034
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: amd.com
-    reality-opts:
-      public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
-      short-id: e7f57d7d79a7af85
-    client-fingerprint: firefox
-
-  - name: "香港A-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829758390.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: h1.berrycdn-1.com
-
-  - name: "香港A-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10006
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: sisu.xboxlive.com
-    reality-opts:
-      public-key: Fe3e0-_DEwqn4M4FAEoej97gxNWCsuZlWs3leQAy_go
-      short-id: 876d1505
-    client-fingerprint: chrome
-
-  - name: "香港A-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829759546.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: h1.berrycdn-3.com
-
-  - name: "香港A-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15071
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: statici.icloud.com
-    reality-opts:
-      public-key: zuPrrjMqVi7IbghJCSDT-xTPwJDOc6P4x0H-a-bT9wI
-      short-id: cd22d5b4
-    client-fingerprint: edge
-
-  - name: "香港B-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829759740.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: h1-b.berrycdn-1.com
-
-  - name: "香港B-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10007
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: amd.com
-    reality-opts:
-      public-key: zC-CmaRSg11z2cJXOhezeH2VgnjQhp-iKqhpgWuhA0A
-      short-id: 7d3af3ab694d22
-    client-fingerprint: chrome
-
-  - name: "香港B-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2087
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829754275.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: h1-b.berrycdn-3.com
-
-  - name: "香港B-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15072
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: statici.icloud.com
-    reality-opts:
-      public-key: M9rImF1OGYA0XK3L0PaNbwdzvwpBpL9-xGTkIDMmmAk
-      short-id: af7548392d632e
-    client-fingerprint: chrome
-
-  - name: "香港C-专线2"
-    type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 10036
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: statici.icloud.com
-    reality-opts:
-      public-key: 61yqhTQF4rW4nCrry6UYrY-bN752FRexGpZasYmhSyM
-      short-id: '103863'
-    client-fingerprint: safari
-
-  - name: "日本A-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829759663.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: g1.berrycdn-1.com
-
-  - name: "日本A-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10008
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
     servername: www.bing.com
     reality-opts:
-      public-key: obtAZCf2MatqqdICtem9CAnROYJgBOYxiYPWosHf300
-      short-id: a5ba6144f6ec
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
     client-fingerprint: ios
+    network: tcp
 
-  - name: "日本A-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756623.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: g1.berrycdn-3.com
-
-  - name: "日本A-专线2"
+  - name: "套餐到期：2026-09-02"
     type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15081
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
     servername: www.bing.com
     reality-opts:
-      public-key: 5KTYlJFW3j52VUnfWogv7oUzM6oFu7cZog8IRnjXXFw
-      short-id: abc3b00aa2db739a
-    client-fingerprint: firefox
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: safari
+    network: tcp
 
-  - name: "日本B-基础线路1 | TCP"
-    type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829756114.berrycdn-1.com
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: g1-b.berrycdn-1.com
-
-  - name: "日本B-基础线路2 | TCP"
+  - name: "HostDZireJP-B2v6"
     type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 10009
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
-    servername: download.amd.com
+    servername: www.bing.com
     reality-opts:
-      public-key: E-FDMkXkmjhBXPD70mp6RNzyALBuEnTnwFIKL5GxHnw
-      short-id: 45bd1d
-    client-fingerprint: firefox
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: ios
+    network: tcp
 
-  - name: "日本B-专线1"
-    type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    udp: true
-    skip-cert-verify: false
-    sni: 17817829752548.berrycdn-3.com
-    network: ws
-    ws-opts:
-      path: /videotahyjhghmuaawe
-      headers:
-        Host: g1-b.berrycdn-3.com
-
-  - name: "日本B-专线2"
+  - name: "HostDZireJP-B1v6"
     type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 15082
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 2401:d560:0:107:57a7:849d:7b66:507a
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
     servername: www.bing.com
@@ -1509,119 +113,719 @@ proxies:
       public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
       short-id: 0e21a89c3b43dc15
     client-fingerprint: chrome
+    network: tcp
 
-  - name: "日本C-基础线路1 | TCP"
+  - name: "HostDZireJP-direct"
+    type: vless
+    server: g1-b.868863.xyz
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: chrome
+    network: tcp
+
+  - name: "官网 berrypass.link"
     type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 1.cdn.aewe.de
+    port: 2053
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829759924.berrycdn-1.com
+    sni: 2026072211.berrycdn-2.com
+    client-fingerprint: edge
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: g1-c.berrycdn-1.com
+        Host: 0.berrycdn-2.com
 
-  - name: "日本C-基础线路2 | TCP"
-    type: vless
-    server: dedicated1.entrance.868863.xyz
-    port: 12083
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
-    alterId: 0
-    cipher: auto
-    udp: true
-    flow: xtls-rprx-vision
-    tls: true
-    skip-cert-verify: false
-    servername: www.bing.com
-    reality-opts:
-      public-key: YaDfmAyqQWPEY1TZw7dtf7l00s2mxALmAqnY0NyNc00
-      short-id: abe5ae2734b1e7f2
-    client-fingerprint: qq
-
-  - name: "日本C-专线1"
+  - name: "每日使用前请刷新订阅"
     type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2083
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 1.cdn.aewe.de
+    port: 2053
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829758771.berrycdn-3.com
+    sni: 2026072211.berrycdn-2.com
+    client-fingerprint: ios
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: 0.berrycdn-2.com
+
+  - name: "美国-专线1-1x"
+    type: trojan
+    server: 1.dns-us.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: firefox
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
       headers:
-        Host: g1-c.berrycdn-3.com
+        Host: a.berrycdn-3.com
 
-  - name: "日本C-专线2"
+  - name: "美国-专线2-1x"
     type: vless
-    server: dedicated1.private.berry-is-sweet.com
-    port: 10038
-    uuid: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: a.dns-us.aewe.de
+    port: 10002
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
     alterId: 0
     cipher: auto
     udp: true
     flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.aws.com
+    reality-opts:
+      public-key: cgtjlU1f2xM2njTtO69CsWVVqNoZ20CANaHTgUO5AG8
+      short-id: 389e117d
+    client-fingerprint: safari
+    network: tcp
+
+  - name: "美国-专线3-1x"
+    type: vless
+    server: a.dns-us.aewe.de
+    port: 10003
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: electronics.sony.com
+    reality-opts:
+      public-key: P4bg1hg2aN6re10AxnZs1x9Vq30AJB-47_MirTMVzn4
+      short-id: f9c38aa9
+    client-fingerprint: chrome
+    network: tcp
+
+  - name: "美国-专线4-1x"
+    type: vless
+    server: a.dns-us.aewe.de
+    port: 10004
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: downloadmirror.intel.com
+    reality-opts:
+      public-key: yWsfqGWYaZw2hQZVvm2o5kfk4kJ30SVNUNL0Pg5w-Bk
+      short-id: a24d60da7e8cc067
+    client-fingerprint: edge
+    network: tcp
+
+  - name: "美国-专线5-1x"
+    type: vless
+    server: a.dns-us.aewe.de
+    port: 10005
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: drivers.amd.com
+    reality-opts:
+      public-key: vsUrTGYygem7d7TphNsIGbSEoOHzCgzV2B3MS3KaDTw
+      short-id: a8e7da
+    client-fingerprint: qq
+    network: tcp
+
+  - name: "美国-专线6-1x"
+    type: vless
+    server: a.dns-us.aewe.de
+    port: 10006
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: images.nvidia.com
+    reality-opts:
+      public-key: m_BrZf1IqYKOd4x4koVTWxTDS51EoXB57tbg42s3-Sc
+      short-id: 4da7c83cf8a839
+    client-fingerprint: edge
+    network: tcp
+
+  - name: "美国-HY2-1x"
+    server: a1-d.868863.xyz
+    port: 39125
+    sni: a1-d.868863.xyz
+    up: null
+    down: null
+    skip-cert-verify: false
+    ports: 39101-39199
+    type: hysteria2
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+
+  - name: "德国-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2087
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: ios
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: b1.berrycdn-1.com
+
+  - name: "德国-主力专线-1x"
+    type: trojan
+    server: 1.dns-us.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: firefox
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: b1.berrycdn-3.com
+
+  - name: "德国-HY2-1x"
+    server: b2.868863.xyz
+    port: 39104
+    sni: b2.868863.xyz
+    up: null
+    down: null
+    skip-cert-verify: false
+    ports: 39101-39199
+    type: hysteria2
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+
+  - name: "加拿大-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2083
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: c1.berrycdn-1.com
+
+  - name: "加拿大-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: edge
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: c1.berrycdn-3.com
+
+  - name: "加拿大-HY2-1x"
+    server: c1.868863.xyz
+    port: 39134
+    sni: c1.868863.xyz
+    up: null
+    down: null
+    skip-cert-verify: false
+    ports: 39101-39199
+    type: hysteria2
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+
+  - name: "台湾-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 8443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: firefox
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: d1.berrycdn-1.com
+
+  - name: "台湾-Hinet线路-1x"
+    type: vless
+    server: d1.868863.xyz
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
     tls: true
     skip-cert-verify: false
     servername: www.bing.com
     reality-opts:
-      public-key: qByBUzKlruuoeywXXOZilucPZKYQTyS-JaV8QY5-Lzg
-      short-id: 616abc581adf24
-    client-fingerprint: ios
+      public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
+      short-id: 03694ac7f76e29
+    client-fingerprint: edge
+    network: tcp
 
-  - name: "摩尔多瓦-基础线路1 | TCP"
+  - name: "英国-基础线路-0.3x"
     type: trojan
-    server: resolution1.entrance.868863.xyz
-    port: 8443
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 1.cdn.aewe.de
+    port: 2053
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829756438.berrycdn-1.com
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: e1.berrycdn-1.com
+
+  - name: "英国-主力专线-1x"
+    type: trojan
+    server: 1.dns-us.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: edge
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: e1.berrycdn-3.com
+
+  - name: "新加坡A-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2096
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: f1.berrycdn-1.com
+
+  - name: "新加坡A-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: f1.berrycdn-3.com
+
+  - name: "新加坡A-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15061
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: amd.com
+    reality-opts:
+      public-key: QV-gLda3iinsMfD2QZjAl9rqM-ZoXyof1iPTFLfzJzY
+      short-id: "826209375e55"
+    client-fingerprint: firefox
+    network: tcp
+
+  - name: "新加坡B-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2096
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: f1-b.berrycdn-1.com
+
+  - name: "新加坡B-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: safari
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: f1-b.berrycdn-3.com
+
+  - name: "新加坡B-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15062
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: amd.com
+    reality-opts:
+      public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
+      short-id: e7f57d7d79a7af85
+    client-fingerprint: safari
+    network: tcp
+
+  - name: "新加坡C-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2096
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: edge
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: f1-c.berrycdn-1.com
+
+  - name: "新加坡C-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: f1-c.berrycdn-3.com
+
+  - name: "新加坡C-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 10034
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: amd.com
+    reality-opts:
+      public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
+      short-id: e7f57d7d79a7af85
+    client-fingerprint: ios
+    network: tcp
+
+  - name: "香港A-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2087
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: h1.berrycdn-1.com
+
+  - name: "香港A-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: h1.berrycdn-3.com
+
+  - name: "香港A-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15071
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: statici.icloud.com
+    reality-opts:
+      public-key: zuPrrjMqVi7IbghJCSDT-xTPwJDOc6P4x0H-a-bT9wI
+      short-id: cd22d5b4
+    client-fingerprint: chrome
+    network: tcp
+
+  - name: "香港B-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2087
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: h1-b.berrycdn-1.com
+
+  - name: "香港B-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: firefox
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: h1-b.berrycdn-3.com
+
+  - name: "香港B-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15072
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: statici.icloud.com
+    reality-opts:
+      public-key: M9rImF1OGYA0XK3L0PaNbwdzvwpBpL9-xGTkIDMmmAk
+      short-id: af7548392d632e
+    client-fingerprint: qq
+    network: tcp
+
+  - name: "日本A-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2083
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: g1.berrycdn-1.com
+
+  - name: "日本A-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: g1.berrycdn-3.com
+
+  - name: "日本A-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15081
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: 5KTYlJFW3j52VUnfWogv7oUzM6oFu7cZog8IRnjXXFw
+      short-id: abc3b00aa2db739a
+    client-fingerprint: ios
+    network: tcp
+
+  - name: "日本B-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 2083
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: ios
+    network: ws
+    ws-opts:
+      path: /videomusicaeghmuaawe
+      headers:
+        Host: g1-b.berrycdn-1.com
+
+  - name: "日本B-主力专线-1x"
+    type: trojan
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: edge
+    network: ws
+    ws-opts:
+      path: /videotahyjhghmuaawe
+      headers:
+        Host: g1-b.berrycdn-3.com
+
+  - name: "日本B-备用专线-1x"
+    type: vless
+    server: 2.dns.aewe.de
+    port: 15082
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: ios
+    network: tcp
+
+  - name: "摩尔多瓦-基础线路-0.3x"
+    type: trojan
+    server: 1.cdn.aewe.de
+    port: 8443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    udp: true
+    skip-cert-verify: false
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
         Host: i1.berrycdn-1.com
 
-  - name: "摩尔多瓦-专线1"
+  - name: "摩尔多瓦-主力专线-1x"
     type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 8443
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 1.dns-us.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829758123.berrycdn-3.com
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: safari
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
       headers:
         Host: i1.berrycdn-3.com
 
-  - name: "越南-基础线路1 | TCP"
+  - name: "越南-基础线路-0.3x"
     type: trojan
-    server: resolution1.entrance.868863.xyz
+    server: 1.cdn.aewe.de
     port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829751173.berrycdn-1.com
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: ios
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
         Host: j1.berrycdn-1.com
 
-  - name: "越南-专线1"
+  - name: "越南-主力专线-1x"
     type: trojan
-    server: resolution1.private.berry-is-sweet.com
-    port: 2053
-    password: 68cbbc57-bba9-4db7-9fba-ec99d84ddfb1
+    server: 1.dns.aewe.de
+    port: 443
+    password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 17817829759937.berrycdn-3.com
+    sni: 2026072211.berrycdn-3.com
+    client-fingerprint: safari
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -1638,116 +842,57 @@ proxy-groups:
     type: select
     proxies:
       - "TEST3-CJNTEST3"
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "台湾-专线1"
-      - "台湾-专线2"
-      - "台湾-Hinet线路"
-      - "台湾-线路4 | HY2"
-      - "德国-专线1"
-      - "德国-专线2"
-      - "加拿大-专线1"
-      - "英国-专线1"
-      - "新加坡A-专线1"
-      - "新加坡A-专线2"
-      - "新加坡B-专线1"
-      - "新加坡B-专线2"
-      - "新加坡C-专线1"
-      - "新加坡C-专线2"
-      - "香港A-专线1"
-      - "香港A-专线2"
-      - "香港B-专线1"
-      - "香港B-专线2"
-      - "香港C-专线2"
-      - "日本A-专线1"
-      - "日本A-专线2"
-      - "日本B-专线1"
-      - "日本B-专线2"
-      - "日本C-专线1"
-      - "日本C-专线2"
-      - "摩尔多瓦-专线1"
-      - "越南-专线1"
-      - "美国A-基础线路1 | TCP"
-      - "美国A-基础线路2 | TCP"
-      - "美国B-基础线路1 | TCP"
-      - "美国B-基础线路2 | TCP"
-      - "美国C-基础线路1 | TCP"
-      - "美国C-基础线路2 | TCP"
-      - "美国D-线路4 | HY2"
-      - "德国-基础线路1 | TCP"
-      - "德国-基础线路2 | TCP"
-      - "德国-线路4 | HY2"
-      - "加拿大-基础线路1 | TCP"
-      - "加拿大-线路4 | HY2"
-      - "英国-基础线路1 | TCP"
-      - "新加坡A-基础线路1 | TCP"
-      - "新加坡A-基础线路2 | TCP"
-      - "新加坡B-基础线路1 | TCP"
-      - "新加坡B-基础线路2 | TCP"
-      - "新加坡C-基础线路1 | TCP"
-      - "新加坡C-基础线路2 | TCP"
-      - "香港A-基础线路1 | TCP"
-      - "香港A-基础线路2 | TCP"
-      - "香港B-基础线路1 | TCP"
-      - "香港B-基础线路2 | TCP"
-      - "日本A-基础线路1 | TCP"
-      - "日本A-基础线路2 | TCP"
-      - "日本B-基础线路1 | TCP"
-      - "日本B-基础线路2 | TCP"
-      - "日本C-基础线路1 | TCP"
-      - "日本C-基础线路2 | TCP"
-      - "摩尔多瓦-基础线路1 | TCP"
-      - "越南-基础线路1 | TCP"
-      - "SG🐲™️【免费共享】"
-      - "SG🐲™️【免费共享】 2"
-      - "SG🐲™️【免费共享】 3"
-      - "SG🐲™️【免费共享】 4"
-      - "SG🐲™️【免费共享】 5"
-      - "SG🐲™️【免费共享】 6"
-      - "SG🐲™️【免费共享】 7"
-      - "SG🐲™️【免费共享】 8"
-      - "SG🐲™️【免费共享】 9"
-      - "SG🐲™️【免费共享】 10"
-      - "JP🐲™️【免费共享】"
-      - "JP🐲™️【免费共享】 2"
-      - "JP🐲™️【免费共享】 3"
-      - "JP🐲™️【免费共享】 4"
-      - "JP🐲™️【免费共享】 5"
-      - "JP🐲™️【免费共享】 6"
-      - "JP🐲™️【免费共享】 7"
-      - "JP🐲™️【免费共享】 8"
-      - "JP🐲™️【免费共享】 9"
-      - "JP🐲™️【免费共享】 10"
-      - "TW🐲™️【免费共享】"
-      - "TW🐲™️【免费共享】 2"
-      - "TW🐲™️【免费共享】 3"
-      - "KR🐲™️【免费共享】"
-      - "KR🐲™️【免费共享】 2"
-      - "KR🐲™️【免费共享】 3"
-      - "KR🐲™️【免费共享】 4"
-      - "KR🐲™️【免费共享】 5"
-      - "KR🐲™️【免费共享】 6"
-      - "KR🐲™️【免费共享】 7"
-      - "KR🐲™️【免费共享】 8"
-      - "KR🐲™️【免费共享】 9"
-      - "KR🐲™️【免费共享】 10"
-      - "US🐲™️【免费共享】"
-      - "US🐲™️【免费共享】 2"
-      - "US🐲™️【免费共享】 3"
-      - "US🐲™️【免费共享】 4"
-      - "US🐲™️【免费共享】 5"
-      - "US🐲™️【免费共享】 6"
-      - "US🐲™️【免费共享】 7"
-      - "US🐲™️【免费共享】 8"
-      - "US🐲™️【免费共享】 9"
-      - "US🐲™️【免费共享】 10"
-      - DIRECT
-
-  # 已移除“优先使用”组内免费共享节点，进一步提升网络流畅
+      - "剩余流量：99.99 GB"
+      - "距离下次重置剩余：31 天"
+      - "套餐到期：2026-09-02"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
+      - "官网 berrypass.link"
+      - "每日使用前请刷新订阅"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "美国-HY2-1x"
+      - "德国-基础线路-0.3x"
+      - "德国-主力专线-1x"
+      - "德国-HY2-1x"
+      - "加拿大-基础线路-0.3x"
+      - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
+      - "台湾-基础线路-0.3x"
+      - "台湾-Hinet线路-1x"
+      - "英国-基础线路-0.3x"
+      - "英国-主力专线-1x"
+      - "新加坡A-基础线路-0.3x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-基础线路-0.3x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-基础线路-0.3x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
+      - "香港A-基础线路-0.3x"
+      - "香港A-主力专线-1x"
+      - "香港A-备用专线-1x"
+      - "香港B-基础线路-0.3x"
+      - "香港B-主力专线-1x"
+      - "香港B-备用专线-1x"
+      - "日本A-基础线路-0.3x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-基础线路-0.3x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
+      - "摩尔多瓦-基础线路-0.3x"
+      - "摩尔多瓦-主力专线-1x"
+      - "越南-基础线路-0.3x"
+      - "越南-主力专线-1x"
+      - "DIRECT"
   - name: "➡️优先使用"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1755,145 +900,143 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "TEST3-CJNTEST3"
-      - "美国A-基础线路1 | TCP"
-      - "美国A-基础线路2 | TCP"
-      - "美国B-基础线路1 | TCP"
-      - "美国B-基础线路2 | TCP"
-      - "美国C-基础线路1 | TCP"
-      - "美国C-基础线路2 | TCP"
-      - "美国D-线路4 | HY2"
-
-      - "德国-基础线路1 | TCP"
-      - "德国-基础线路2 | TCP"
-      - "德国-线路4 | HY2"
-      - "加拿大-基础线路1 | TCP"
-      - "加拿大-线路4 | HY2"
-      - "英国-基础线路1 | TCP"
-      - "新加坡A-基础线路1 | TCP"
-      - "新加坡A-基础线路2 | TCP"
-      - "新加坡B-基础线路1 | TCP"
-      - "新加坡B-基础线路2 | TCP"
-      - "新加坡C-基础线路1 | TCP"
-      - "新加坡C-基础线路2 | TCP"
-      - "香港A-基础线路1 | TCP"
-      - "香港A-基础线路2 | TCP"
-      - "香港B-基础线路1 | TCP"
-      - "香港B-基础线路2 | TCP"
-      - "日本A-基础线路1 | TCP"
-      - "日本A-基础线路2 | TCP"
-      - "日本B-基础线路1 | TCP"
-      - "日本B-基础线路2 | TCP"
-      - "日本C-基础线路1 | TCP"
-      - "日本C-基础线路2 | TCP"
-      - "摩尔多瓦-基础线路1 | TCP"
-      - "越南-基础线路1 | TCP"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "美国-HY2-1x"
+      - "德国-基础线路-0.3x"
+      - "德国-主力专线-1x"
+      - "德国-HY2-1x"
+      - "加拿大-基础线路-0.3x"
+      - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
+      - "台湾-基础线路-0.3x"
+      - "台湾-Hinet线路-1x"
+      - "英国-基础线路-0.3x"
+      - "英国-主力专线-1x"
+      - "新加坡A-基础线路-0.3x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-基础线路-0.3x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-基础线路-0.3x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
+      - "香港A-基础线路-0.3x"
+      - "香港A-主力专线-1x"
+      - "香港A-备用专线-1x"
+      - "香港B-基础线路-0.3x"
+      - "香港B-主力专线-1x"
+      - "香港B-备用专线-1x"
+      - "日本A-基础线路-0.3x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-基础线路-0.3x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
+      - "摩尔多瓦-基础线路-0.3x"
+      - "摩尔多瓦-主力专线-1x"
+      - "越南-基础线路-0.3x"
+      - "越南-主力专线-1x"
 
 
 
   - name: "💻专线"
-    type: select
+    type: url-test
+    url: "http://www.gstatic.com/generate_204"
+    interval: 600
+    tolerance: 100
     proxies: 
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "台湾-专线1"
-      - "台湾-专线2"
-      - "德国-专线1"
-      - "德国-专线2"
-      - "加拿大-专线1"
-      - "英国-专线1"
-      - "新加坡A-专线1"
-      - "新加坡A-专线2"
-      - "新加坡B-专线1"
-      - "新加坡B-专线2"
-      - "新加坡C-专线1"
-      - "新加坡C-专线2"
-      - "香港A-专线1"
-      - "香港A-专线2"
-      - "香港B-专线1"
-      - "香港B-专线2"
-      - "香港C-专线2"
-      - "日本A-专线1"
-      - "日本A-专线2"
-      - "日本B-专线1"
-      - "日本B-专线2"
-      - "日本C-专线1"
-      - "日本C-专线2"
-      - "摩尔多瓦-专线1"
-      - "越南-专线1"     
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "德国-主力专线-1x"
+      - "加拿大-主力专线-1x"
+      - "英国-主力专线-1x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
+      - "香港A-主力专线-1x"
+      - "香港A-备用专线-1x"
+      - "香港B-主力专线-1x"
+      - "香港B-备用专线-1x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
+      - "摩尔多瓦-主力专线-1x"
+      - "越南-主力专线-1x"
 
 
   - name: "蓝莓桥🫐"
-    type: select
+    type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 50
     proxies:
-      - "美国A-基础线路1 | TCP"
-      - "美国A-基础线路2 | TCP"
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-基础线路1 | TCP"
-      - "美国B-基础线路2 | TCP"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-基础线路1 | TCP"
-      - "美国C-基础线路2 | TCP"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "美国D-线路4 | HY2"
-      - "德国-基础线路1 | TCP"
-      - "德国-基础线路2 | TCP"
-      - "德国-专线1"
-      - "德国-专线2"
-      - "德国-线路4 | HY2"
-      - "加拿大-基础线路1 | TCP"
-      - "加拿大-专线1"
-      - "加拿大-线路4 | HY2"
-      - "台湾-Hinet线路"
-      - "台湾-线路4 | HY2"
-      - "英国-基础线路1 | TCP"
-      - "英国-专线1"
-      - "新加坡A-基础线路1 | TCP"
-      - "新加坡A-基础线路2 | TCP"
-      - "新加坡A-专线1"
-      - "新加坡A-专线2"
-      - "新加坡B-基础线路1 | TCP"
-      - "新加坡B-基础线路2 | TCP"
-      - "新加坡B-专线1"
-      - "新加坡B-专线2"
-      - "新加坡C-基础线路1 | TCP"
-      - "新加坡C-基础线路2 | TCP"
-      - "新加坡C-专线1"
-      - "新加坡C-专线2"
-      - "香港A-基础线路1 | TCP"
-      - "香港A-基础线路2 | TCP"
-      - "香港A-专线1"
-      - "香港A-专线2"
-      - "香港B-基础线路1 | TCP"
-      - "香港B-基础线路2 | TCP"
-      - "香港B-专线1"
-      - "香港B-专线2"
-      - "香港C-专线2"
-      - "日本A-基础线路1 | TCP"
-      - "日本A-基础线路2 | TCP"
-      - "日本A-专线1"
-      - "日本A-专线2"
-      - "日本B-基础线路1 | TCP"
-      - "日本B-基础线路2 | TCP"
-      - "日本B-专线1"
-      - "日本B-专线2"
-      - "日本C-基础线路1 | TCP"
-      - "日本C-基础线路2 | TCP"
-      - "日本C-专线1"
-      - "日本C-专线2"
-      - "摩尔多瓦-基础线路1 | TCP"
-      - "摩尔多瓦-专线1"
-      - "越南-基础线路1 | TCP"
-      - "越南-专线1"
+      - "剩余流量：99.99 GB"
+      - "距离下次重置剩余：31 天"
+      - "套餐到期：2026-09-02"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
+      - "官网 berrypass.link"
+      - "每日使用前请刷新订阅"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "美国-HY2-1x"
+      - "德国-基础线路-0.3x"
+      - "德国-主力专线-1x"
+      - "德国-HY2-1x"
+      - "加拿大-基础线路-0.3x"
+      - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
+      - "台湾-基础线路-0.3x"
+      - "台湾-Hinet线路-1x"
+      - "英国-基础线路-0.3x"
+      - "英国-主力专线-1x"
+      - "新加坡A-基础线路-0.3x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-基础线路-0.3x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-基础线路-0.3x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
+      - "香港A-基础线路-0.3x"
+      - "香港A-主力专线-1x"
+      - "香港A-备用专线-1x"
+      - "香港B-基础线路-0.3x"
+      - "香港B-主力专线-1x"
+      - "香港B-备用专线-1x"
+      - "日本A-基础线路-0.3x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-基础线路-0.3x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
+      - "摩尔多瓦-基础线路-0.3x"
+      - "摩尔多瓦-主力专线-1x"
+      - "越南-基础线路-0.3x"
+      - "越南-主力专线-1x"
 
   - name: "VPS🛜"
     type: url-test
@@ -1910,49 +1053,21 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "SG🐲™️【免费共享】"
-      - "SG🐲™️【免费共享】 2"
-      - "SG🐲™️【免费共享】 3"
-      - "SG🐲™️【免费共享】 4"
-      - "SG🐲™️【免费共享】 5"
-      - "SG🐲™️【免费共享】 6"
-      - "SG🐲™️【免费共享】 7"
-      - "SG🐲™️【免费共享】 8"
-      - "SG🐲™️【免费共享】 9"
-      - "SG🐲™️【免费共享】 10"
-      - "JP🐲™️【免费共享】"
-      - "JP🐲™️【免费共享】 2"
-      - "JP🐲™️【免费共享】 3"
-      - "JP🐲™️【免费共享】 4"
-      - "JP🐲™️【免费共享】 5"
-      - "JP🐲™️【免费共享】 6"
-      - "JP🐲™️【免费共享】 7"
-      - "JP🐲™️【免费共享】 8"
-      - "JP🐲™️【免费共享】 9"
-      - "JP🐲™️【免费共享】 10"
-      - "TW🐲™️【免费共享】"
-      - "TW🐲™️【免费共享】 2"
-      - "TW🐲™️【免费共享】 3"
-      - "KR🐲™️【免费共享】"
-      - "KR🐲™️【免费共享】 2"
-      - "KR🐲™️【免费共享】 3"
-      - "KR🐲™️【免费共享】 4"
-      - "KR🐲™️【免费共享】 5"
-      - "KR🐲™️【免费共享】 6"
-      - "KR🐲™️【免费共享】 7"
-      - "KR🐲™️【免费共享】 8"
-      - "KR🐲™️【免费共享】 9"
-      - "KR🐲™️【免费共享】 10"
-      - "US🐲™️【免费共享】"
-      - "US🐲™️【免费共享】 2"
-      - "US🐲™️【免费共享】 3"
-      - "US🐲™️【免费共享】 4"
-      - "US🐲™️【免费共享】 5"
-      - "US🐲™️【免费共享】 6"
-      - "US🐲™️【免费共享】 7"
-      - "US🐲™️【免费共享】 8"
-      - "US🐲™️【免费共享】 9"
-      - "US🐲™️【免费共享】 10"
+      - "官网 berrypass.link"
+      - "每日使用前请刷新订阅"
+      - "德国-基础线路-0.3x"
+      - "加拿大-基础线路-0.3x"
+      - "台湾-基础线路-0.3x"
+      - "英国-基础线路-0.3x"
+      - "新加坡A-基础线路-0.3x"
+      - "新加坡B-基础线路-0.3x"
+      - "新加坡C-基础线路-0.3x"
+      - "香港A-基础线路-0.3x"
+      - "香港B-基础线路-0.3x"
+      - "日本A-基础线路-0.3x"
+      - "日本B-基础线路-0.3x"
+      - "摩尔多瓦-基础线路-0.3x"
+      - "越南-基础线路-0.3x"
 
   - name: "🗽US专线&US券商"
     type: url-test
@@ -1960,13 +1075,13 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "加拿大-专线1"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "加拿大-主力专线-1x"
 
   - name: "🤖AI"
     type: url-test
@@ -1974,25 +1089,23 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "加拿大-专线1"
-      - "新加坡A-专线1"
-      - "新加坡A-专线2"
-      - "新加坡B-专线1"
-      - "新加坡B-专线2"
-      - "新加坡C-专线1"
-      - "新加坡C-专线2"
-      - "日本A-专线1"
-      - "日本A-专线2"
-      - "日本B-专线1"
-      - "日本B-专线2"
-      - "日本C-专线1"
-      - "日本C-专线2"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "加拿大-主力专线-1x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
 
   - name: "🐗COC"
     type: url-test
@@ -2009,8 +1122,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-Hinet线路"
-      - "台湾-线路4 | HY2"
+      - "台湾-Hinet线路-1x"
+      - "台湾-基础线路-0.3x"
 
   - name: "抖音"
     type: select
@@ -2031,7 +1144,7 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "➡️优先使用"
+      - "💻专线"
 
   - name: "🎥 Netflix"
     type: url-test
@@ -2119,8 +1232,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-专线1"
-      - "台湾-专线2"
+      - "台湾-基础线路-0.3x"
+      - "台湾-Hinet线路-1x"
 
 
   - name: "🇭🇰 香港节点"
@@ -2129,15 +1242,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "香港A-基础线路1 | TCP"
-      - "香港A-基础线路2 | TCP"
-      - "香港A-专线1"
-      - "香港A-专线2"
-      - "香港B-基础线路1 | TCP"
-      - "香港B-基础线路2 | TCP"
-      - "香港B-专线1"
-      - "香港B-专线2"
-      - "香港C-专线2"
+      - "香港A-基础线路-0.3x"
+      - "香港A-主力专线-1x"
+      - "香港A-备用专线-1x"
+      - "香港B-基础线路-0.3x"
+      - "香港B-主力专线-1x"
+      - "香港B-备用专线-1x"
 
   - name: "🇺🇸 美国节点"
     type: url-test
@@ -2145,36 +1255,13 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国A-基础线路1 | TCP"
-      - "美国A-基础线路2 | TCP"
-      - "美国A-专线1"
-      - "美国A-专线2"
-      - "美国B-基础线路1 | TCP"
-      - "美国B-基础线路2 | TCP"
-      - "美国B-专线1"
-      - "美国B-专线2"
-      - "美国C-基础线路1 | TCP"
-      - "美国C-基础线路2 | TCP"
-      - "美国C-专线1"
-      - "美国C-专线2"
-      - "美国D-线路4 | HY2"
-
-  - name: "🇰🇷 韩国节点"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "KR🐲™️【免费共享】"
-      - "KR🐲™️【免费共享】 2"
-      - "KR🐲™️【免费共享】 3"
-      - "KR🐲™️【免费共享】 4"
-      - "KR🐲™️【免费共享】 5"
-      - "KR🐲™️【免费共享】 6"
-      - "KR🐲™️【免费共享】 7"
-      - "KR🐲™️【免费共享】 8"
-      - "KR🐲™️【免费共享】 9"
-      - "KR🐲™️【免费共享】 10"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "美国-HY2-1x"
 
   - name: "🇨🇳 台湾节点"
     type: url-test
@@ -2182,21 +1269,16 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "台湾-专线1"
-      - "台湾-专线2"
-      - "台湾-Hinet线路"
-      - "台湾-线路4 | HY2"
-      - "TW🐲™️【免费共享】"
-      - "TW🐲™️【免费共享】 2"
-      - "TW🐲™️【免费共享】 3"
+      - "台湾-基础线路-0.3x"
+      - "台湾-Hinet线路-1x"
   - name: "🇬🇧 英国节点"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
     interval: 600
     tolerance: 100
     proxies:
-      - "英国-基础线路1 | TCP"
-      - "英国-专线1"
+      - "英国-基础线路-0.3x"
+      - "英国-主力专线-1x"
 
   - name: "🇯🇵 日本节点"
     type: url-test
@@ -2204,18 +1286,15 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "日本A-基础线路1 | TCP"
-      - "日本A-基础线路2 | TCP"
-      - "日本A-专线1"
-      - "日本A-专线2"
-      - "日本B-基础线路1 | TCP"
-      - "日本B-基础线路2 | TCP"
-      - "日本B-专线1"
-      - "日本B-专线2"
-      - "日本C-基础线路1 | TCP"
-      - "日本C-基础线路2 | TCP"
-      - "日本C-专线1"
-      - "日本C-专线2"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
+      - "日本A-基础线路-0.3x"
+      - "日本A-主力专线-1x"
+      - "日本A-备用专线-1x"
+      - "日本B-基础线路-0.3x"
+      - "日本B-主力专线-1x"
+      - "日本B-备用专线-1x"
 
   - name: "🇸🇬 新加坡节点"
     type: url-test
@@ -2223,28 +1302,15 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "新加坡A-基础线路1 | TCP"
-      - "新加坡A-基础线路2 | TCP"
-      - "新加坡A-专线1"
-      - "新加坡A-专线2"
-      - "新加坡B-基础线路1 | TCP"
-      - "新加坡B-基础线路2 | TCP"
-      - "新加坡B-专线1"
-      - "新加坡B-专线2"
-      - "新加坡C-基础线路1 | TCP"
-      - "新加坡C-基础线路2 | TCP"
-      - "新加坡C-专线1"
-      - "新加坡C-专线2"
-      - "SG🐲™️【免费共享】"
-      - "SG🐲™️【免费共享】 2"
-      - "SG🐲™️【免费共享】 3"
-      - "SG🐲™️【免费共享】 4"
-      - "SG🐲™️【免费共享】 5"
-      - "SG🐲™️【免费共享】 6"
-      - "SG🐲™️【免费共享】 7"
-      - "SG🐲™️【免费共享】 8"
-      - "SG🐲™️【免费共享】 9"
-      - "SG🐲™️【免费共享】 10"
+      - "新加坡A-基础线路-0.3x"
+      - "新加坡A-主力专线-1x"
+      - "新加坡A-备用专线-1x"
+      - "新加坡B-基础线路-0.3x"
+      - "新加坡B-主力专线-1x"
+      - "新加坡B-备用专线-1x"
+      - "新加坡C-基础线路-0.3x"
+      - "新加坡C-主力专线-1x"
+      - "新加坡C-备用专线-1x"
 
   - name: "🇩🇪 德国"
     type: url-test
@@ -2252,11 +1318,9 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "德国-基础线路1 | TCP"
-      - "德国-基础线路2 | TCP"
-      - "德国-专线1"
-      - "德国-专线2"
-      - "德国-线路4 | HY2"
+      - "德国-基础线路-0.3x"
+      - "德国-主力专线-1x"
+      - "德国-HY2-1x"
 
   - name: "🇨🇦 加拿大"
     type: url-test
@@ -2264,9 +1328,9 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "加拿大-基础线路1 | TCP"
-      - "加拿大-专线1"
-      - "加拿大-线路4 | HY2"
+      - "加拿大-基础线路-0.3x"
+      - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
 
 
 rules:
