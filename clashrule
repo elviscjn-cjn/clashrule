@@ -1047,27 +1047,6 @@ proxy-groups:
       - "TEST3-CJNTEST3"
 
 
-  - name: "☁️CDN"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "官网 berrypass.link"
-      - "每日使用前请刷新订阅"
-      - "德国-基础线路-0.3x"
-      - "加拿大-基础线路-0.3x"
-      - "台湾-基础线路-0.3x"
-      - "英国-基础线路-0.3x"
-      - "新加坡A-基础线路-0.3x"
-      - "新加坡B-基础线路-0.3x"
-      - "新加坡C-基础线路-0.3x"
-      - "香港A-基础线路-0.3x"
-      - "香港B-基础线路-0.3x"
-      - "日本A-基础线路-0.3x"
-      - "日本B-基础线路-0.3x"
-      - "摩尔多瓦-基础线路-0.3x"
-      - "越南-基础线路-0.3x"
 
   - name: "🗽US专线&US券商"
     type: url-test
@@ -1096,16 +1075,7 @@ proxy-groups:
       - "美国-专线5-1x"
       - "美国-专线6-1x"
       - "加拿大-主力专线-1x"
-      - "新加坡A-主力专线-1x"
-      - "新加坡A-备用专线-1x"
-      - "新加坡B-主力专线-1x"
-      - "新加坡B-备用专线-1x"
-      - "新加坡C-主力专线-1x"
-      - "新加坡C-备用专线-1x"
-      - "日本A-主力专线-1x"
-      - "日本A-备用专线-1x"
-      - "日本B-主力专线-1x"
-      - "日本B-备用专线-1x"
+
 
   - name: "🐗COC"
     type: url-test
@@ -1464,9 +1434,9 @@ rules:
   - "GEOSITE,reddit,📖 Reddit"
 
   # TikTok
-  - "GEOSITE,tiktok,☁️CDN"
-  - "DOMAIN-KEYWORD,tiktok,☁️CDN"
-  - "DOMAIN-SUFFIX,tiktokv.com,☁️CDN"
+  - "GEOSITE,tiktok,TEST3-CJNTEST3"
+  - "DOMAIN-KEYWORD,tiktok,TEST3-CJNTEST3"
+  - "DOMAIN-SUFFIX,tiktokv.com,TEST3-CJNTEST3"
 
   # ━━━━━━━━━━━━━━ 流媒体娱乐 ━━━━━━━━━━━━━━
 
