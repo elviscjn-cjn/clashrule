@@ -831,6 +831,7 @@ proxies:
       path: /videotahyjhghmuaawe
       headers:
         Host: j1.berrycdn-3.com
+
 proxy-groups:
   - name: "🌐直连"
     type: select
@@ -893,6 +894,7 @@ proxy-groups:
       - "越南-基础线路-0.3x"
       - "越南-主力专线-1x"
       - "DIRECT"
+
   - name: "➡️优先使用"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -903,50 +905,19 @@ proxy-groups:
       - "HostDZireJP-B2v6"
       - "HostDZireJP-B1v6"
       - "HostDZireJP-direct"
-      - "美国-专线1-1x"
-      - "美国-专线2-1x"
-      - "美国-专线3-1x"
-      - "美国-专线4-1x"
-      - "美国-专线5-1x"
-      - "美国-专线6-1x"
-      - "美国-HY2-1x"
       - "德国-基础线路-0.3x"
-      - "德国-主力专线-1x"
-      - "德国-HY2-1x"
       - "加拿大-基础线路-0.3x"
-      - "加拿大-主力专线-1x"
-      - "加拿大-HY2-1x"
       - "台湾-基础线路-0.3x"
-      - "台湾-Hinet线路-1x"
       - "英国-基础线路-0.3x"
-      - "英国-主力专线-1x"
       - "新加坡A-基础线路-0.3x"
-      - "新加坡A-主力专线-1x"
-      - "新加坡A-备用专线-1x"
       - "新加坡B-基础线路-0.3x"
-      - "新加坡B-主力专线-1x"
-      - "新加坡B-备用专线-1x"
       - "新加坡C-基础线路-0.3x"
-      - "新加坡C-主力专线-1x"
-      - "新加坡C-备用专线-1x"
       - "香港A-基础线路-0.3x"
-      - "香港A-主力专线-1x"
-      - "香港A-备用专线-1x"
       - "香港B-基础线路-0.3x"
-      - "香港B-主力专线-1x"
-      - "香港B-备用专线-1x"
       - "日本A-基础线路-0.3x"
-      - "日本A-主力专线-1x"
-      - "日本A-备用专线-1x"
       - "日本B-基础线路-0.3x"
-      - "日本B-主力专线-1x"
-      - "日本B-备用专线-1x"
       - "摩尔多瓦-基础线路-0.3x"
-      - "摩尔多瓦-主力专线-1x"
       - "越南-基础线路-0.3x"
-      - "越南-主力专线-1x"
-
-
 
   - name: "💻专线"
     type: url-test
@@ -979,7 +950,6 @@ proxy-groups:
       - "日本B-备用专线-1x"
       - "摩尔多瓦-主力专线-1x"
       - "越南-主力专线-1x"
-
 
   - name: "蓝莓桥🫐"
     type: url-test
@@ -1046,8 +1016,6 @@ proxy-groups:
     proxies:
       - "TEST3-CJNTEST3"
 
-
-
   - name: "🗽US专线&US券商"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1076,7 +1044,6 @@ proxy-groups:
       - "美国-专线6-1x"
       - "加拿大-主力专线-1x"
 
-
   - name: "🐗COC"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1095,19 +1062,6 @@ proxy-groups:
       - "台湾-Hinet线路-1x"
       - "台湾-基础线路-0.3x"
 
-  - name: "抖音"
-    type: select
-    proxies:
-      - "🌐直连"
-
-  - name: "📲 Telegram"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
-
   - name: "📹 YouTube"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1115,30 +1069,6 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "💻专线"
-
-  - name: "🎥 Netflix"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
-
-  - name: "🎬 Disney+"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
-
-  - name: "🎻 Spotify"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
 
   - name: "🚀X"
     type: url-test
@@ -1156,46 +1086,6 @@ proxy-groups:
     proxies:
       - "🗽US专线&US券商"
 
-  - name: "📖 Reddit"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
-
-  - name: "🐦 Discord"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "➡️优先使用"
-
-  - name: "📽 哔哩哔哩[直连]"
-    type: select
-    proxies:
-      - "🌐直连"
-      - "🇭🇰 香港节点"
-      - "🇨🇳 台湾节点"
-
-  - name: "🍔 国内媒体[直连]"
-    type: select
-    proxies:
-      - "🌐直连"
-
-
-  - name: "Ⓜ️ 微软服务[直连]"
-    type: select
-    proxies:
-      - "🌐直连"
-
-  - name: "🍎 苹果服务[直连]"
-    type: select
-    proxies:
-      - "🌐直连"
-
-
   - name: "台湾(crypto)"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1204,7 +1094,6 @@ proxy-groups:
     proxies:
       - "台湾-基础线路-0.3x"
       - "台湾-Hinet线路-1x"
-
 
   - name: "🇭🇰 香港节点"
     type: url-test
@@ -1233,14 +1122,8 @@ proxy-groups:
       - "美国-专线6-1x"
       - "美国-HY2-1x"
 
-  - name: "🇨🇳 台湾节点"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 600
-    tolerance: 100
-    proxies:
-      - "台湾-基础线路-0.3x"
-      - "台湾-Hinet线路-1x"
+
+
   - name: "🇬🇧 英国节点"
     type: url-test
     url: "http://www.gstatic.com/generate_204"
@@ -1313,7 +1196,6 @@ rules:
   # Hyperliquid
   - 'DOMAIN-KEYWORD,hyperliquid,台湾(crypto)'
 
-
   # Binance
   - "DOMAIN-SUFFIX,binance.com,台湾(crypto)"
 
@@ -1382,14 +1264,13 @@ rules:
   # Riot Games / League of Legends
   - "DOMAIN-SUFFIX,mlol.qt.qq.com,🌐直连"
 
-
   # ━━━━━━━━━━━━━━ Apple 服务矩阵 ━━━━━━━━━━━━━━
 
   # Apple
   - "DOMAIN,appstoreconnect.apple.com,🌐直连"
   - "DOMAIN,mesu.apple.com,🌐直连"
   - "DOMAIN,xp.apple.com,🌐直连"
-  - "GEOSITE,apple,🍎 苹果服务[直连]"
+  - "GEOSITE,apple,🌐直连"
 
   # ━━━━━━━━━━━━━━ 金融与数字银行 ━━━━━━━━━━━━━━
 
@@ -1421,17 +1302,17 @@ rules:
   - "DOMAIN-SUFFIX,probe.twitter.com,🚀X"
 
   # Telegram
-  - "GEOSITE,telegram,📲 Telegram"
+  - "GEOSITE,telegram,➡️优先使用"
 
   # Meta / Instagram / Facebook
   - "GEOSITE,instagram,➡️优先使用"
   - "GEOSITE,facebook,➡️优先使用"
 
   # Discord
-  - "GEOSITE,discord,🐦 Discord"
+  - "GEOSITE,discord,➡️优先使用"
 
   # Reddit
-  - "GEOSITE,reddit,📖 Reddit"
+  - "GEOSITE,reddit,➡️优先使用"
 
   # TikTok
   - "GEOSITE,tiktok,TEST3-CJNTEST3"
@@ -1449,13 +1330,13 @@ rules:
   - DOMAIN-SUFFIX,rr5---sn-oji3bc-5n.googlevideo.com,📹 YouTube
 
   # Netflix
-  - GEOSITE,netflix,🎥 Netflix
+  - GEOSITE,netflix,➡️优先使用
 
   # Disney+
-  - GEOSITE,disney,🎬 Disney+
+  - GEOSITE,disney,➡️优先使用
 
   # Spotify
-  - GEOSITE,spotify,🎻 Spotify
+  - GEOSITE,spotify,➡️优先使用
 
   # Twitch
   - GEOSITE,twitch,📹 YouTube
@@ -1485,10 +1366,11 @@ rules:
   - DOMAIN-SUFFIX,bytecdn.cn,🌐直连
   - DOMAIN-SUFFIX,bytemastatic.com,🌐直连
   - DOMAIN-SUFFIX,ibytedapm.com,🌐直连
+
   # Bilibili
-  - GEOSITE,bilibili,📽 哔哩哔哩[直连]
-  - DOMAIN-SUFFIX,api.bilibili.com,📽 哔哩哔哩[直连]
-  - DOMAIN-SUFFIX,dataflow.biliapi.com,📽 哔哩哔哩[直连]
+  - GEOSITE,bilibili,🌐直连
+  - DOMAIN-SUFFIX,api.bilibili.com,🌐直连
+  - DOMAIN-SUFFIX,dataflow.biliapi.com,🌐直连
   - DOMAIN-SUFFIX,broadcast.chat.bilibili.com,🌐直连
 
   # NetEase
@@ -1522,12 +1404,12 @@ rules:
   - DOMAIN-SUFFIX,push.clients6.google.com,➡️优先使用
 
   # Microsoft
-  - GEOSITE,microsoft,Ⓜ️ 微软服务[直连]
+  - GEOSITE,microsoft,🌐直连
 
   # Custom Domain
   - DOMAIN-SUFFIX,elviscjngood.ccwu.cc,➡️优先使用
 
-    # ━━━━━━━━━━━━━━ 本地服务 ━━━━━━━━━━━━━━
+  # ━━━━━━━━━━━━━━ 本地服务 ━━━━━━━━━━━━━━
 
   # League Akari
   - 'PROCESS-PATH,D:\101\League.Akari-1.4.0-win,DIRECT'
