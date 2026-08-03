@@ -1050,7 +1050,6 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "🗽US专线&US券商"
       - "TEST3-CJNTEST3"
 
   - name: "H"
@@ -1229,8 +1228,9 @@ rules:
   - "DOMAIN-SUFFIX,poe.com,🤖AI"
 
   # Gemini / Google AI
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,🤖AI"
-  - "DOMAIN-KEYWORD,gemini,🤖AI"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,TEST3-CJNTEST3"
+
+  - "DOMAIN-KEYWORD,gemini,TEST3-CJNTEST3"
 
   # Claude / Anthropic
   - "DOMAIN-SUFFIX,anthropic.com,🤖AI"
