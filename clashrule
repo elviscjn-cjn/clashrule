@@ -1022,13 +1022,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-专线1-1x"
-      - "美国-专线2-1x"
-      - "美国-专线3-1x"
-      - "美国-专线4-1x"
-      - "美国-专线5-1x"
-      - "美国-专线6-1x"
       - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
 
   - name: "🤖AI"
     type: url-test
@@ -1036,13 +1031,8 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-专线1-1x"
-      - "美国-专线2-1x"
-      - "美国-专线3-1x"
-      - "美国-专线4-1x"
-      - "美国-专线5-1x"
-      - "美国-专线6-1x"
       - "加拿大-主力专线-1x"
+      - "加拿大-HY2-1x"
 
   - name: "🐗COC"
     type: url-test
@@ -1075,7 +1065,7 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "🇺🇸 美国节点"
+      - "🇨🇦 加拿大"
 
   - name: "🪙 Paypal"
     type: url-test
@@ -1336,7 +1326,7 @@ rules:
   - GEOSITE,disney,➡️优先使用
 
   # Spotify
-  - GEOSITE,spotify,➡️优先使用
+  - GEOSITE,spotify,🌐直连
 
   # Twitch
   - GEOSITE,twitch,📹 YouTube
