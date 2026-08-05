@@ -1022,8 +1022,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "加拿大-主力专线-1x"
-      - "加拿大-HY2-1x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
 
   - name: "🤖AI"
     type: url-test
@@ -1031,8 +1035,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "加拿大-主力专线-1x"
-      - "加拿大-HY2-1x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
 
   - name: "🐗COC"
     type: url-test
@@ -1065,7 +1073,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "🇨🇦 加拿大"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
 
   - name: "🪙 Paypal"
     type: url-test
