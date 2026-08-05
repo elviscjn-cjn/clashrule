@@ -20,50 +20,119 @@ proxies:
       headers:
         Host: ELVIS.elvisisbest0602.ccwu.cc
 
-  - name: "剩余流量：95.57 GB"
-    type: trojan
-    server: 1.cdn.aewe.de
-    port: 2053
-    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+  - name: "剩余流量：99.99 GB"
+    type: vless
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
     udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-2.com
-    client-fingerprint: chrome
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: 0.berrycdn-2.com
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: safari
+    network: tcp
 
-  - name: "距离下次重置剩余：28 天"
-    type: trojan
-    server: 1.cdn.aewe.de
-    port: 2053
-    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+  - name: "距离下次重置剩余：31 天"
+    type: vless
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
     udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-2.com
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
     client-fingerprint: ios
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: 0.berrycdn-2.com
+    network: tcp
 
   - name: "套餐到期：2026-09-02"
-    type: trojan
-    server: 1.cdn.aewe.de
-    port: 2053
-    password: ef085e08-441c-4881-9f4d-e54e1a772e93
+    type: vless
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
     udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-2.com
-    client-fingerprint: firefox
-    network: ws
-    ws-opts:
-      path: /videomusicaeghmuaawe
-      headers:
-        Host: 0.berrycdn-2.com
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: safari
+    network: tcp
+
+  - name: "HostDZireJP-B2v6"
+    type: vless
+    server: 2401:d560:0:107:1c00:54ff:fe00:539
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: ios
+    network: tcp
+
+  - name: "HostDZireJP-B1v6"
+    type: vless
+    server: 2401:d560:0:107:57a7:849d:7b66:507a
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: chrome
+    network: tcp
+
+  - name: "HostDZireJP-direct"
+    type: vless
+    server: g1-b.868863.xyz
+    port: 37001
+    uuid: ef085e08-441c-4881-9f4d-e54e1a772e93
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    encryption: none
+    tls: true
+    skip-cert-verify: false
+    servername: www.bing.com
+    reality-opts:
+      public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
+      short-id: 0e21a89c3b43dc15
+    client-fingerprint: chrome
+    network: tcp
 
   - name: "官网 berrypass.link"
     type: trojan
@@ -73,7 +142,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-2.com
-    client-fingerprint: firefox
+    client-fingerprint: edge
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
@@ -95,7 +164,7 @@ proxies:
       headers:
         Host: 0.berrycdn-2.com
 
-  - name: "美国-高带宽专线1-0.5x"
+  - name: "美国-专线1-1x"
     type: trojan
     server: 1.dns-us.aewe.de
     port: 443
@@ -103,14 +172,14 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: safari
+    client-fingerprint: firefox
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
       headers:
         Host: a.berrycdn-3.com
 
-  - name: "美国-高带宽专线2-0.5x"
+  - name: "美国-专线2-1x"
     type: vless
     server: a.dns-us.aewe.de
     port: 10002
@@ -126,10 +195,10 @@ proxies:
     reality-opts:
       public-key: cgtjlU1f2xM2njTtO69CsWVVqNoZ20CANaHTgUO5AG8
       short-id: 389e117d
-    client-fingerprint: firefox
+    client-fingerprint: safari
     network: tcp
 
-  - name: "美国-高带宽专线3-0.5x"
+  - name: "美国-专线3-1x"
     type: vless
     server: a.dns-us.aewe.de
     port: 10003
@@ -145,10 +214,10 @@ proxies:
     reality-opts:
       public-key: P4bg1hg2aN6re10AxnZs1x9Vq30AJB-47_MirTMVzn4
       short-id: f9c38aa9
-    client-fingerprint: qq
+    client-fingerprint: chrome
     network: tcp
 
-  - name: "美国-高带宽专线4-0.5x"
+  - name: "美国-专线4-1x"
     type: vless
     server: a.dns-us.aewe.de
     port: 10004
@@ -164,10 +233,10 @@ proxies:
     reality-opts:
       public-key: yWsfqGWYaZw2hQZVvm2o5kfk4kJ30SVNUNL0Pg5w-Bk
       short-id: a24d60da7e8cc067
-    client-fingerprint: firefox
+    client-fingerprint: edge
     network: tcp
 
-  - name: "美国-高带宽专线5-0.5x"
+  - name: "美国-专线5-1x"
     type: vless
     server: a.dns-us.aewe.de
     port: 10005
@@ -186,7 +255,7 @@ proxies:
     client-fingerprint: qq
     network: tcp
 
-  - name: "美国-高带宽专线6-0.5x"
+  - name: "美国-专线6-1x"
     type: vless
     server: a.dns-us.aewe.de
     port: 10006
@@ -202,12 +271,12 @@ proxies:
     reality-opts:
       public-key: m_BrZf1IqYKOd4x4koVTWxTDS51EoXB57tbg42s3-Sc
       short-id: 4da7c83cf8a839
-    client-fingerprint: firefox
+    client-fingerprint: edge
     network: tcp
 
   - name: "美国-HY2-1x"
     server: a1-d.868863.xyz
-    port: 39102
+    port: 39125
     sni: a1-d.868863.xyz
     up: null
     down: null
@@ -223,13 +292,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
+    sni: 2026072211.berrycdn-1.com
     client-fingerprint: ios
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: b1.berrycdn-5.com
+        Host: b1.berrycdn-1.com
 
   - name: "德国-主力专线-1x"
     type: trojan
@@ -239,7 +308,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: edge
+    client-fingerprint: firefox
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -248,7 +317,7 @@ proxies:
 
   - name: "德国-HY2-1x"
     server: b2.868863.xyz
-    port: 39192
+    port: 39104
     sni: b2.868863.xyz
     up: null
     down: null
@@ -264,23 +333,23 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: ios
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: c1.berrycdn-5.com
+        Host: c1.berrycdn-1.com
 
   - name: "加拿大-主力专线-1x"
     type: trojan
-    server: 1.dns-us.aewe.de
+    server: 1.dns.aewe.de
     port: 443
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: qq
+    client-fingerprint: edge
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -289,7 +358,7 @@ proxies:
 
   - name: "加拿大-HY2-1x"
     server: c1.868863.xyz
-    port: 39109
+    port: 39134
     sni: c1.868863.xyz
     up: null
     down: null
@@ -305,13 +374,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: edge
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: firefox
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: d1.berrycdn-5.com
+        Host: d1.berrycdn-1.com
 
   - name: "台湾-Hinet线路-1x"
     type: vless
@@ -329,7 +398,7 @@ proxies:
     reality-opts:
       public-key: rCFjWBuyeXg3-JCZ7pgsfF2njuT_TlzOa7EfD_fbbi0
       short-id: 03694ac7f76e29
-    client-fingerprint: safari
+    client-fingerprint: edge
     network: tcp
 
   - name: "英国-基础线路-0.3x"
@@ -339,13 +408,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: firefox
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: e1.berrycdn-5.com
+        Host: e1.berrycdn-1.com
 
   - name: "英国-主力专线-1x"
     type: trojan
@@ -369,13 +438,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: ios
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: f1.berrycdn-5.com
+        Host: f1.berrycdn-1.com
 
   - name: "新加坡A-主力专线-1x"
     type: trojan
@@ -406,8 +475,8 @@ proxies:
     servername: amd.com
     reality-opts:
       public-key: QV-gLda3iinsMfD2QZjAl9rqM-ZoXyof1iPTFLfzJzY
-      short-id: '826209375e55'
-    client-fingerprint: ios
+      short-id: "826209375e55"
+    client-fingerprint: firefox
     network: tcp
 
   - name: "新加坡B-基础线路-0.3x"
@@ -417,13 +486,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
+    sni: 2026072211.berrycdn-1.com
     client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: f1-b.berrycdn-5.com
+        Host: f1-b.berrycdn-1.com
 
   - name: "新加坡B-主力专线-1x"
     type: trojan
@@ -433,7 +502,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: ios
+    client-fingerprint: safari
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -456,7 +525,7 @@ proxies:
     reality-opts:
       public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
       short-id: e7f57d7d79a7af85
-    client-fingerprint: ios
+    client-fingerprint: safari
     network: tcp
 
   - name: "新加坡C-基础线路-0.3x"
@@ -466,13 +535,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: firefox
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: edge
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: f1-c.berrycdn-5.com
+        Host: f1-c.berrycdn-1.com
 
   - name: "新加坡C-主力专线-1x"
     type: trojan
@@ -505,7 +574,7 @@ proxies:
     reality-opts:
       public-key: sxwDhkLnXBxfkTYBKAUtzn3xfpZ15cPE1sL-V2LQ3mA
       short-id: e7f57d7d79a7af85
-    client-fingerprint: safari
+    client-fingerprint: ios
     network: tcp
 
   - name: "香港A-基础线路-0.3x"
@@ -515,13 +584,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: chrome
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: h1.berrycdn-5.com
+        Host: h1.berrycdn-1.com
 
   - name: "香港A-主力专线-1x"
     type: trojan
@@ -563,13 +632,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: ios
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: h1-b.berrycdn-5.com
+        Host: h1-b.berrycdn-1.com
 
   - name: "香港B-主力专线-1x"
     type: trojan
@@ -579,7 +648,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: edge
+    client-fingerprint: firefox
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -602,7 +671,7 @@ proxies:
     reality-opts:
       public-key: M9rImF1OGYA0XK3L0PaNbwdzvwpBpL9-xGTkIDMmmAk
       short-id: af7548392d632e
-    client-fingerprint: chrome
+    client-fingerprint: qq
     network: tcp
 
   - name: "日本A-基础线路-0.3x"
@@ -612,13 +681,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: edge
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: qq
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: g1.berrycdn-5.com
+        Host: g1.berrycdn-1.com
 
   - name: "日本A-主力专线-1x"
     type: trojan
@@ -628,7 +697,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: firefox
+    client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -651,7 +720,7 @@ proxies:
     reality-opts:
       public-key: 5KTYlJFW3j52VUnfWogv7oUzM6oFu7cZog8IRnjXXFw
       short-id: abc3b00aa2db739a
-    client-fingerprint: firefox
+    client-fingerprint: ios
     network: tcp
 
   - name: "日本B-基础线路-0.3x"
@@ -661,13 +730,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
+    sni: 2026072211.berrycdn-1.com
     client-fingerprint: ios
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: g1-b.berrycdn-5.com
+        Host: g1-b.berrycdn-1.com
 
   - name: "日本B-主力专线-1x"
     type: trojan
@@ -677,7 +746,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: firefox
+    client-fingerprint: edge
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -700,7 +769,7 @@ proxies:
     reality-opts:
       public-key: OsNqIHO53H_nYcmJ9VS1cs_Vk-jLsnpoq7vyifAPxE4
       short-id: 0e21a89c3b43dc15
-    client-fingerprint: safari
+    client-fingerprint: ios
     network: tcp
 
   - name: "摩尔多瓦-基础线路-0.3x"
@@ -710,13 +779,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: qq
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: chrome
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: i1.berrycdn-5.com
+        Host: i1.berrycdn-1.com
 
   - name: "摩尔多瓦-主力专线-1x"
     type: trojan
@@ -726,7 +795,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: chrome
+    client-fingerprint: safari
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -740,13 +809,13 @@ proxies:
     password: ef085e08-441c-4881-9f4d-e54e1a772e93
     udp: true
     skip-cert-verify: false
-    sni: 2026072211.berrycdn-5.com
-    client-fingerprint: qq
+    sni: 2026072211.berrycdn-1.com
+    client-fingerprint: ios
     network: ws
     ws-opts:
       path: /videomusicaeghmuaawe
       headers:
-        Host: j1.berrycdn-5.com
+        Host: j1.berrycdn-1.com
 
   - name: "越南-主力专线-1x"
     type: trojan
@@ -756,7 +825,7 @@ proxies:
     udp: true
     skip-cert-verify: false
     sni: 2026072211.berrycdn-3.com
-    client-fingerprint: chrome
+    client-fingerprint: safari
     network: ws
     ws-opts:
       path: /videotahyjhghmuaawe
@@ -774,17 +843,20 @@ proxy-groups:
     type: select
     proxies:
       - "TEST3-CJNTEST3"
-      - "剩余流量：95.57 GB"
-      - "距离下次重置剩余：28 天"
+      - "剩余流量：99.99 GB"
+      - "距离下次重置剩余：31 天"
       - "套餐到期：2026-09-02"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
       - "官网 berrypass.link"
       - "每日使用前请刷新订阅"
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
       - "美国-HY2-1x"
       - "德国-基础线路-0.3x"
       - "德国-主力专线-1x"
@@ -830,6 +902,9 @@ proxy-groups:
     tolerance: 100
     proxies:
       - "TEST3-CJNTEST3"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
       - "德国-基础线路-0.3x"
       - "加拿大-基础线路-0.3x"
       - "台湾-基础线路-0.3x"
@@ -850,12 +925,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies: 
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
       - "德国-主力专线-1x"
       - "加拿大-主力专线-1x"
       - "英国-主力专线-1x"
@@ -882,17 +957,20 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "剩余流量：95.57 GB"
-      - "距离下次重置剩余：28 天"
+      - "剩余流量：99.99 GB"
+      - "距离下次重置剩余：31 天"
       - "套餐到期：2026-09-02"
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
       - "官网 berrypass.link"
       - "每日使用前请刷新订阅"
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
       - "美国-HY2-1x"
       - "德国-基础线路-0.3x"
       - "德国-主力专线-1x"
@@ -944,12 +1022,13 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "加拿大-主力专线-1x"
 
   - name: "🤖AI"
     type: url-test
@@ -957,12 +1036,13 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
+      - "加拿大-主力专线-1x"
 
   - name: "🐗COC"
     type: url-test
@@ -970,6 +1050,7 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
+      - "🗽US专线&US券商"
       - "TEST3-CJNTEST3"
 
   - name: "H"
@@ -995,12 +1076,7 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "🇺🇸 美国节点"
 
   - name: "🪙 Paypal"
     type: url-test
@@ -1038,12 +1114,12 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "美国-高带宽专线1-0.5x"
-      - "美国-高带宽专线2-0.5x"
-      - "美国-高带宽专线3-0.5x"
-      - "美国-高带宽专线4-0.5x"
-      - "美国-高带宽专线5-0.5x"
-      - "美国-高带宽专线6-0.5x"
+      - "美国-专线1-1x"
+      - "美国-专线2-1x"
+      - "美国-专线3-1x"
+      - "美国-专线4-1x"
+      - "美国-专线5-1x"
+      - "美国-专线6-1x"
       - "美国-HY2-1x"
 
 
@@ -1063,6 +1139,9 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
+      - "HostDZireJP-B2v6"
+      - "HostDZireJP-B1v6"
+      - "HostDZireJP-direct"
       - "日本A-基础线路-0.3x"
       - "日本A-主力专线-1x"
       - "日本A-备用专线-1x"
@@ -1150,9 +1229,8 @@ rules:
   - "DOMAIN-SUFFIX,poe.com,🤖AI"
 
   # Gemini / Google AI
-  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,TEST3-CJNTEST3"
-
-  - "DOMAIN-KEYWORD,gemini,TEST3-CJNTEST3"
+  - "DOMAIN-SUFFIX,lh3.googleusercontent.com,🤖AI"
+  - "DOMAIN-KEYWORD,gemini,🤖AI"
 
   # Claude / Anthropic
   - "DOMAIN-SUFFIX,anthropic.com,🤖AI"
@@ -1258,7 +1336,7 @@ rules:
   - GEOSITE,disney,➡️优先使用
 
   # Spotify
-  - GEOSITE,spotify,🌐直连
+  - GEOSITE,spotify,➡️优先使用
 
   # Twitch
   - GEOSITE,twitch,📹 YouTube
